@@ -4,8 +4,6 @@
 <dict>
 	<key>bundleid</key>
 	<string>com.erikopinaldo.alfredzdshortcuts</string>
-	<key>category</key>
-	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
 		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
@@ -67,11 +65,37 @@
 				<false/>
 			</dict>
 		</array>
+		<key>12621C34-CFDD-413D-8DEA-FEB85343F57A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7A8F3C44-5E84-4923-A271-9FAA51D7FA3A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>188BE41D-01D9-43D0-A6C5-5536EF345EB3</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2685419E-0155-4391-9E17-696C5272F4B7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A7E57762-1545-47C7-B05E-044718A87457</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -158,6 +182,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>482BFA73-45D1-4E62-B720-E7000E5E7131</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>737E2680-A6C8-4049-96C5-BDD0EBC69A44</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4AFF24BA-7313-45C5-ADB3-212AB8C82A96</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5527B0A8-B772-4770-BCE5-0EA43F162139</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<array>
 			<dict>
@@ -171,11 +221,90 @@
 				<false/>
 			</dict>
 		</array>
+		<key>5527B0A8-B772-4770-BCE5-0EA43F162139</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>12621C34-CFDD-413D-8DEA-FEB85343F57A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>737E2680-A6C8-4049-96C5-BDD0EBC69A44</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6FD6B743-10F1-444A-A529-24307796467F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>20B59106-D1AA-44C8-BC60-652A39CC1260</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>87A59671-7FED-4A26-A29E-A33AE555810B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7A8F3C44-5E84-4923-A271-9FAA51D7FA3A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7ADED6F8-2643-4D47-A26D-7AD5C48B9316</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E9E29C2C-FFAA-4353-AF58-F100E7F10C2B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E6C3F1E4-1D5E-4EE8-94A4-6CF521CFAD88</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -223,11 +352,57 @@
 				<false/>
 			</dict>
 		</array>
+		<key>9C0C311A-4933-446E-A09E-DC8866B50555</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E8B9F0BE-BBBB-4241-BF72-F779012BBDB0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A7E57762-1545-47C7-B05E-044718A87457</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F46E3AD3-A35B-49A7-BB64-83F89086962E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6C760B32-A67A-43A6-BD28-08842830A79A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6768D5CE-4FD9-4BEF-B418-6FF7A4992F12</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -314,6 +489,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>B9EAE72E-CA9F-48CF-859A-2D2FDF74E80E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E8F46E4D-CCAB-4179-B8FB-AEBB0B44CE50</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
 		<array>
 			<dict>
@@ -366,6 +554,71 @@
 				<false/>
 			</dict>
 		</array>
+		<key>E8B9F0BE-BBBB-4241-BF72-F779012BBDB0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>482BFA73-45D1-4E62-B720-E7000E5E7131</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E8F46E4D-CCAB-4179-B8FB-AEBB0B44CE50</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2685419E-0155-4391-9E17-696C5272F4B7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ED2AA016-8E10-4AA4-8C72-BF52F20C4DB9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B9EAE72E-CA9F-48CF-859A-2D2FDF74E80E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F9832774-B4CF-4832-8707-1B93662BB010</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4AFF24BA-7313-45C5-ADB3-212AB8C82A96</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F9F31E50-5781-4004-89A0-94003D29F791</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9C0C311A-4933-446E-A09E-DC8866B50555</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
 		<array>
 			<dict>
@@ -393,19 +646,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>triggerid</key>
-				<string>updateCheck</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
-			<key>uid</key>
-			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -413,84 +653,79 @@
 				<key>script</key>
 				<string>#!/usr/bin/env bash
 #forked from OneUpdater by Vitor Galvao https://github.com/vitorgalvao/alfred-workflows/blob/master/OneUpdater/README.md
-#This fork mostly removes unused features and also gives the option to store workflow files behind a private link.
-#This template configures automatic update notifications only, it cannot automatically install updates.
-#When an update is available, a URL is opened, linking the user to a page where they can download the latest update.
-#!This should be a page that will remain at the same URL or behind a redirect and can be updated in-place.!
-#!Failure to redirect users will result in an update notification loop.!
 
-#Configure updates by filling in the following 6 variables
-##This is the plist file that will be used for update checks. 
-##The script checks to see if the remote version greater than the version currently installed.
-##If so, the user is notified and redirected to the workflow_url to download the latest update.
 readonly remote_info_plist='https://raw.githubusercontent.com/erikopinaldo/alfred-zendesk-shortcuts/main/info.plist'
-##This is the link where the user will download the latest update.
-readonly workflow_url='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
-##The amount of days between update checks.
-##Change to 0 if testing and it will check every single time.
-##!Don't forget to change it back before exporting! 4 days is recommended.
-readonly frequency_check='14'
-##This homepage will be used only as a fallback if something goes wrong with the update checks.
+readonly workflow_url='erikopinaldo/alfred-zendesk-shortcuts'
+readonly download_type='github_release'
+readonly frequency_check='4'
+readonly auth=$(cat '.assets/vars.txt')
 readonly home_page='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
 
 #FROM HERE ON, CODE SHOULD BE LEFT UNTOUCHED!
-
-readonly download_type='page'
-
 function abort {
-  open "${home_page}"
-  notification 'Please check #watch-erik-code-things for a fix, or raise in channel' 'UPDATE SERVER ERROR'
   echo "${1}" &gt;&amp;2
   exit 1
 }
 
-#check to see if the URL can be reached. If it can't a notification is posted below.
+#check to see if the URL can be reached
 function url_exists {
-  curl --silent --location --output /dev/null --fail --range 0-0 "${1}" 
+  curl --silent --location -H "${auth}" -H 'Accept: application/vnd.github.v3.raw' --output /dev/null --fail --range 0-0 "${1}" 
 }
 
-#Update notifications. Uses 'Notificator'. Either 'You're up to date' or 'Update available, redirecting you to download'
+#notifications. Uses 'Notificator'.
 function notification {
   local -r notificator="$(find . -type f -name 'notificator')"
   if [[ -f "${notificator}" &amp;&amp; "$(/usr/bin/file --brief --mime-type "${notificator}")" == 'text/x-shellscript' ]]; then
-    "${notificator}" --message "${1}" --title "CE Debug Tools for Alfred" --subtitle "${2}" --sound 'Funk'
+    "${notificator}" --message "${1}" --title "ZD Shortcuts for Alfred" --subtitle "${2}" --sound 'Funk'
     return
   fi
 
-#use applescript for notifications if Notificator fails
+#use applescript if Notificator fails
   osascript -e "display notification \"${1}\" with title \"Alfred ${alfred_workflow_name} Updater \" subtitle \"${2}\""
 }
 
-# Local sanity checks. Creates a temporary file to compare with the remote version.
+# Local sanity checks
 readonly local_info_plist='info.plist'
 readonly local_version="$(/usr/libexec/PlistBuddy -c 'print version' "${local_info_plist}")"
 
 [[ -n "${local_version}" ]] || abort 'You need to set a workflow version in the configuration sheet.'
 
-# Check if the remote version can be reached
+# Check for updates
 if [[ $(find "${local_info_plist}" -mtime +"${frequency_check}"d) ]]; then
-  if ! url_exists "${remote_info_plist}"; then
-    abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
+  if ! url_exists "${remote_info_plist}"; then abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
 
 
-#creates a temp file of the remote version to compare with the local version.
+#this creates a temp file to compare with the local version.
   readonly tmp_file="$(mktemp)"
-  curl --location --output "${tmp_file}" "${remote_info_plist}" -H 'Accept: application/vnd.github.v3.raw' 
+  curl --location --output "${tmp_file}" "${remote_info_plist}" -H "${auth}" -H 'Accept: application/vnd.github.v3.raw'
   readonly remote_version="$(/usr/libexec/PlistBuddy -c 'print version' "${tmp_file}")"
 
-#compare the local and remote files to see if an update is available.
-#if they're the, same notifies 'You are up to date!' and then resets the timer.
+#compare the local with remote to see if an update is available.
   if [[ "${local_version}" == "${remote_version}" ]]; then
-	notification "(${remote_version}) You are up to date!"
+	notification 'You are up to date!'
     touch "${local_info_plist}" # Reset timer by touching local file
     exit 0
   fi
 
-  if url_exists "${workflow_url}"; then
-    notification "Update available v(${remote_version}) launching update page..."
+  if [[ "${download_type}" == 'page' ]]; then
+    notification 'Launching update in Slack…'
     open "${workflow_url}"
-  else
-    abort "'workflow_url' (${workflow_url}) appears to not be reachable."
+    exit 0
+  fi
+
+  download_url="$([[ "${download_type}" == 'github_release' ]] &amp;&amp; curl --silent "https://api.github.com/repos/${workflow_url}/releases/latest" | grep 'browser_download_url' | head -1 | sed -E 's/.*browser_download_url": "(.*)"/\1/' || echo "${workflow_url}")"
+  echo "${download_url}"
+
+  if url_exists "${download_url}"; then
+    notification 'Downloading and installing…''Update available v'""${remote_version}""
+    curl -H "${auth}" -H 'Accept: application/vnd.github.v3.raw' --location --output "${HOME}/Downloads/${alfred_workflow_name}-${remote_version}.alfredworkflow" "${download_url}"
+    open "${HOME}/Downloads/${alfred_workflow_name}-${remote_version}.alfredworkflow"
+   else
+     #if the update download cannot be reached, open the workflow channel in TS
+
+    open "${home_page}"
+    notification "Download in #watch-erik-code-things" 'Update available v'""${remote_version}""
+    abort "'workflow_url' (${download_url}) appears to not be reachable."
   fi
 fi</string>
 				<key>scriptargtype</key>
@@ -506,6 +741,19 @@ fi</string>
 			<string>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>updateCheck</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>type</key>
@@ -598,37 +846,6 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>30</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>]</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -685,6 +902,37 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>30</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>]</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>externaltriggerid</key>
 				<string>updateCheck</string>
 				<key>passinputasargument</key>
@@ -698,6 +946,25 @@ end tell</string>
 			<string>alfred.workflow.output.callexternaltrigger</string>
 			<key>uid</key>
 			<string>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -781,25 +1048,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argument</key>
 				<string>{var:view2}</string>
 				<key>passthroughargument</key>
@@ -813,6 +1061,37 @@ end tell</string>
 			<string>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>39</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>'</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -860,37 +1139,6 @@ end tell</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>39</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>'</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1146,37 +1394,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>35</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>P</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1230,6 +1447,37 @@ end tell</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>35</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>P</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1335,6 +1583,37 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>13</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>W</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1414,37 +1693,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>13</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>W</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>lastpathcomponent</key>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
@@ -1462,6 +1710,56 @@ end tell</string>
 			<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:split1}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>3</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>F</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1533,56 +1831,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{var:split1}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>3</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>F</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>delimiter</key>
 				<string>\r\n</string>
 				<key>trimarguments</key>
@@ -1626,6 +1874,644 @@ end tell</string>
 			<string>alfred.workflow.output.playsound</string>
 			<key>uid</key>
 			<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>C6B8AB1D-06EF-4E61-BFCA-DCE55BB65FCA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>A587A87C-2B78-47EC-9CAD-4E427176D269</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{var:split1}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Snippets</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>6FD6B743-10F1-444A-A529-24307796467F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>0C79500D-209D-4C1F-A1B3-D986F3C65043</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>20B59106-D1AA-44C8-BC60-652A39CC1260</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtextrtf</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0\c84706\cname controlTextColor;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf2 Hi \{var:split1\}, \
+\
+Thanks for reaching out, although I apologize for the troubles you are experiencing with Slack. I'll try my best to help.\
+\
+To help me troubleshoot this issue, would you be able to provide some additional information?\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f1\fs24 \cf0 {\listtext	\uc0\u8226 	}
+\f0\fs26 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \
+I'll be standing by to support further. Please let me know if you have any additional questions. \
+\
+All the best, \
+Erik}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>737E2680-A6C8-4049-96C5-BDD0EBC69A44</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>tixstr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>F9F31E50-5781-4004-89A0-94003D29F791</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9C0C311A-4933-446E-A09E-DC8866B50555</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>482BFA73-45D1-4E62-B720-E7000E5E7131</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>E8B9F0BE-BBBB-4241-BF72-F779012BBDB0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>87A59671-7FED-4A26-A29E-A33AE555810B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{var:split1}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Snippets</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>7ADED6F8-2643-4D47-A26D-7AD5C48B9316</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>E9E29C2C-FFAA-4353-AF58-F100E7F10C2B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>bugsnip1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>F9832774-B4CF-4832-8707-1B93662BB010</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>Hi {var:split1}, 
+
+Thanks for reaching out.
+
+It looks like you are experiencing a bug that our engineers are aware of and need to investigate further. I had a look at the bug report and don't see any tangible updates on it yet, so I don't have a concrete resolution timeline to provide at the moment. However, I've linked your ticket to the bug report so that you are kept in the loop as updates come in.
+
+Please let me know if you have any additional questions.
+
+All the best,
+Erik</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>7A8F3C44-5E84-4923-A271-9FAA51D7FA3A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4AFF24BA-7313-45C5-ADB3-212AB8C82A96</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>5527B0A8-B772-4770-BCE5-0EA43F162139</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>12621C34-CFDD-413D-8DEA-FEB85343F57A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>E6C3F1E4-1D5E-4EE8-94A4-6CF521CFAD88</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{var:split1}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Snippets</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>F46E3AD3-A35B-49A7-BB64-83F89086962E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>6C760B32-A67A-43A6-BD28-08842830A79A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>bugsnip2</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>ED2AA016-8E10-4AA4-8C72-BF52F20C4DB9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B9EAE72E-CA9F-48CF-859A-2D2FDF74E80E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>Hi {var:split1}, 
+
+It looks like you are experiencing a bug that our engineers are aware of and need to investigate further. I had a look at the bug report and don't see any tangible updates on it yet, so I don't have a concrete resolution timeline to provide at the moment. However, I've linked your ticket to the bug report so that you are kept in the loop as updates come in.
+
+Please let me know if you have any additional questions.
+
+All the best,
+Erik</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A7E57762-1545-47C7-B05E-044718A87457</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2685419E-0155-4391-9E17-696C5272F4B7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>E8F46E4D-CCAB-4179-B8FB-AEBB0B44CE50</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>6768D5CE-4FD9-4BEF-B418-6FF7A4992F12</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1694,6 +2580,32 @@ HOW TO ADD VIEW SHORTCUTS
 			<key>ypos</key>
 			<integer>865</integer>
 		</dict>
+		<key>0C79500D-209D-4C1F-A1B3-D986F3C65043</key>
+		<dict>
+			<key>note</key>
+			<string>HOW TO ADD MORE SNIPPETS:
+
+There are 3 example snippet chains here. You can add more of your own by following these steps:
+
+1. Drag your mouse to highlight one entire snippet chain
+2. Command + C to copy that chain
+3. Command + V to paste that chain. You can drag this dupe chain wherever you want
+3. In this dupe chain, double click the beginning "Snippet" block to edit the keyword/shortcut for your snippet
+4. Double click the "Copy to Clipboard" block to edit snippet text content</string>
+			<key>xpos</key>
+			<integer>1310</integer>
+			<key>ypos</key>
+			<integer>1735</integer>
+		</dict>
+		<key>12621C34-CFDD-413D-8DEA-FEB85343F57A</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>765</integer>
+			<key>ypos</key>
+			<integer>2240</integer>
+		</dict>
 		<key>13DA23F1-5580-43FD-A8F4-7F3610E4B169</key>
 		<dict>
 			<key>note</key>
@@ -1724,6 +2636,22 @@ If a newer version exists, open download page.</string>
 			<integer>15</integer>
 			<key>ypos</key>
 			<integer>1030</integer>
+		</dict>
+		<key>20B59106-D1AA-44C8-BC60-652A39CC1260</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
+		<key>2685419E-0155-4391-9E17-696C5272F4B7</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>2645</integer>
 		</dict>
 		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
 		<dict>
@@ -1816,6 +2744,24 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>385</integer>
 		</dict>
+		<key>482BFA73-45D1-4E62-B720-E7000E5E7131</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>1890</integer>
+		</dict>
+		<key>4AFF24BA-7313-45C5-ADB3-212AB8C82A96</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>455</integer>
+			<key>ypos</key>
+			<integer>2210</integer>
+		</dict>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<dict>
 			<key>xpos</key>
@@ -1823,12 +2769,67 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>865</integer>
 		</dict>
+		<key>5527B0A8-B772-4770-BCE5-0EA43F162139</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>640</integer>
+			<key>ypos</key>
+			<integer>2240</integer>
+		</dict>
+		<key>6768D5CE-4FD9-4BEF-B418-6FF7A4992F12</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>2715</integer>
+		</dict>
+		<key>6C760B32-A67A-43A6-BD28-08842830A79A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>2590</integer>
+		</dict>
+		<key>6FD6B743-10F1-444A-A529-24307796467F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>1685</integer>
+		</dict>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<dict>
 			<key>xpos</key>
 			<integer>765</integer>
 			<key>ypos</key>
 			<integer>1110</integer>
+		</dict>
+		<key>737E2680-A6C8-4049-96C5-BDD0EBC69A44</key>
+		<dict>
+			<key>note</key>
+			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
+			<key>xpos</key>
+			<integer>865</integer>
+			<key>ypos</key>
+			<integer>1860</integer>
+		</dict>
+		<key>7A8F3C44-5E84-4923-A271-9FAA51D7FA3A</key>
+		<dict>
+			<key>note</key>
+			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
+			<key>xpos</key>
+			<integer>870</integer>
+			<key>ypos</key>
+			<integer>2210</integer>
+		</dict>
+		<key>7ADED6F8-2643-4D47-A26D-7AD5C48B9316</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>2060</integer>
 		</dict>
 		<key>81C7E2E7-DFDF-453F-8132-0D629B5F741B</key>
 		<dict>
@@ -1838,6 +2839,13 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<integer>1010</integer>
 			<key>ypos</key>
 			<integer>1005</integer>
+		</dict>
+		<key>87A59671-7FED-4A26-A29E-A33AE555810B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>1930</integer>
 		</dict>
 		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
 		<dict>
@@ -1882,6 +2890,15 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>1110</integer>
 		</dict>
+		<key>9C0C311A-4933-446E-A09E-DC8866B50555</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>1860</integer>
+		</dict>
 		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
 		<dict>
 			<key>colorindex</key>
@@ -1892,6 +2909,15 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<integer>640</integer>
 			<key>ypos</key>
 			<integer>310</integer>
+		</dict>
+		<key>A587A87C-2B78-47EC-9CAD-4E427176D269</key>
+		<dict>
+			<key>note</key>
+			<string>SECTION: Snippets</string>
+			<key>xpos</key>
+			<integer>640</integer>
+			<key>ypos</key>
+			<integer>1675</integer>
 		</dict>
 		<key>A5C7B48D-BC7A-472B-9991-0BD52B523021</key>
 		<dict>
@@ -1908,6 +2934,15 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<integer>425</integer>
 			<key>ypos</key>
 			<integer>460</integer>
+		</dict>
+		<key>A7E57762-1545-47C7-B05E-044718A87457</key>
+		<dict>
+			<key>note</key>
+			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
+			<key>xpos</key>
+			<integer>865</integer>
+			<key>ypos</key>
+			<integer>2615</integer>
 		</dict>
 		<key>A8946038-4AEF-427F-8102-6C06DEE68CB7</key>
 		<dict>
@@ -1971,6 +3006,15 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
+		<key>B9EAE72E-CA9F-48CF-859A-2D2FDF74E80E</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>2615</integer>
+		</dict>
 		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
 		<dict>
 			<key>xpos</key>
@@ -1986,6 +3030,15 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<integer>475</integer>
 			<key>ypos</key>
 			<integer>1400</integer>
+		</dict>
+		<key>C6B8AB1D-06EF-4E61-BFCA-DCE55BB65FCA</key>
+		<dict>
+			<key>note</key>
+			<string>NOTE: all snippets grab requester name from requester dropdown menu</string>
+			<key>xpos</key>
+			<integer>770</integer>
+			<key>ypos</key>
+			<integer>1675</integer>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
@@ -2012,6 +3065,78 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>1295</integer>
 		</dict>
+		<key>E6C3F1E4-1D5E-4EE8-94A4-6CF521CFAD88</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1085</integer>
+			<key>ypos</key>
+			<integer>2300</integer>
+		</dict>
+		<key>E8B9F0BE-BBBB-4241-BF72-F779012BBDB0</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>635</integer>
+			<key>ypos</key>
+			<integer>1890</integer>
+		</dict>
+		<key>E8F46E4D-CCAB-4179-B8FB-AEBB0B44CE50</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>635</integer>
+			<key>ypos</key>
+			<integer>2645</integer>
+		</dict>
+		<key>E9E29C2C-FFAA-4353-AF58-F100E7F10C2B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>2185</integer>
+		</dict>
+		<key>ED2AA016-8E10-4AA4-8C72-BF52F20C4DB9</key>
+		<dict>
+			<key>note</key>
+			<string>Get requester name and paste standard ticket introduction response
+
+Double click this block to edit your snippet keyword/trigger</string>
+			<key>xpos</key>
+			<integer>155</integer>
+			<key>ypos</key>
+			<integer>2615</integer>
+		</dict>
+		<key>F46E3AD3-A35B-49A7-BB64-83F89086962E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>2465</integer>
+		</dict>
+		<key>F9832774-B4CF-4832-8707-1B93662BB010</key>
+		<dict>
+			<key>note</key>
+			<string>Get requester name and paste standard ticket introduction response
+
+Double click this block to edit your snippet keyword/trigger</string>
+			<key>xpos</key>
+			<integer>160</integer>
+			<key>ypos</key>
+			<integer>2210</integer>
+		</dict>
+		<key>F9F31E50-5781-4004-89A0-94003D29F791</key>
+		<dict>
+			<key>note</key>
+			<string>Get requester name and paste standard ticket introduction response
+
+Double click this block to edit your snippet keyword/trigger</string>
+			<key>xpos</key>
+			<integer>155</integer>
+			<key>ypos</key>
+			<integer>1860</integer>
+		</dict>
 		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
 		<dict>
 			<key>colorindex</key>
@@ -2027,16 +3152,20 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 	<key>variables</key>
 	<dict>
 		<key>view1</key>
-		<string>Enter VIEW ID here</string>
+		<string></string>
 		<key>view2</key>
-		<string>Enter VIEW ID here</string>
+		<string></string>
 		<key>view3</key>
-		<string>Enter VIEW ID here</string>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
-	<array/>
+	<array>
+		<string>view1</string>
+		<string>view2</string>
+		<string>view3</string>
+	</array>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
