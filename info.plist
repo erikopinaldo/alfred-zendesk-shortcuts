@@ -1,0 +1,3151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.erikopinaldo.alfredzdshortcuts</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>60047BD2-78C4-46DF-853F-B68EA54CF309</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>02EE251F-A116-42AC-9ACB-40591A2FA72D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>144172C1-BB98-4BA3-8FA2-5DB8818F8472</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EB6261E5-84A5-4C51-8A24-1F2A942D0A55</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>FD8AC9AA-C2D2-44AD-BB37-64DC8F56FB64</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4F17AA8A-7BCC-4237-877B-CBB460D2176C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>188BE41D-01D9-43D0-A6C5-5536EF345EB3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1E043B25-B051-45BF-B5CD-6C35EB20C10F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>22952098-E096-47A1-8797-FBC1F116E8A8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2B1AE771-06E9-4D8C-AA47-9C872671B669</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>34975508-90FC-4169-89F7-001DD52FAF14</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7E104956-E379-4CFC-9479-1381C72B1DBF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4E390760-F004-464D-99CE-1258D95B78D0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>34975508-90FC-4169-89F7-001DD52FAF14</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>60047BD2-78C4-46DF-853F-B68EA54CF309</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>02EE251F-A116-42AC-9ACB-40591A2FA72D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7E104956-E379-4CFC-9479-1381C72B1DBF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18CC0D6C-B435-47BA-8CD2-4AFD32EB2022</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>15432BD0-E89D-4E01-A8C5-8F0CF1201882</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0A7EB389-C14C-4518-9614-FD66BD70ED24</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1E043B25-B051-45BF-B5CD-6C35EB20C10F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8930D7F6-18B8-4CFE-A63C-C8936891C60F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9522E6B9-0EA5-4E59-854B-7386BA66F290</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>71DF99AC-74FA-4FD4-9602-38DE9098E951</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A8946038-4AEF-427F-8102-6C06DEE68CB7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B55CB91E-ED57-4F1D-B513-45A67866323E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D379C18-5B0C-4B88-8EAF-AE04B6B81121</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D31792B2-8332-4058-897A-6E6F97448A69</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>3B5211D7-ED47-4767-8E62-82EE7C5EC04D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C633BBDD-1B8B-4409-9816-24A9663AD786</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>89136E68-9E37-4CD6-BFB1-A45027E8883E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D000E405-40FC-4D94-8994-D45A5E36B569</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ED928218-88A8-4857-93C0-5644EDCAE4B8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>22952098-E096-47A1-8797-FBC1F116E8A8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EEDF7D8F-7C65-4B97-9DFE-5B5F95728C07</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ED928218-88A8-4857-93C0-5644EDCAE4B8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Erik Opinaldo</string>
+	<key>description</key>
+	<string>A collection of keyboard shortcuts for common ZD actions</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>ZD Shortcuts</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>#!/usr/bin/env bash
+#forked from OneUpdater by Vitor Galvao https://github.com/vitorgalvao/alfred-workflows/blob/master/OneUpdater/README.md
+#This fork mostly removes unused features and also gives the option to store workflow files behind a private link.
+#This template configures automatic update notifications only, it cannot automatically install updates.
+#When an update is available, a URL is opened, linking the user to a page where they can download the latest update.
+#!This should be a page that will remain at the same URL or behind a redirect and can be updated in-place.!
+#!Failure to redirect users will result in an update notification loop.!
+
+#Configure updates by filling in the following 6 variables
+##This is the plist file that will be used for update checks. 
+##The script checks to see if the remote version greater than the version currently installed.
+##If so, the user is notified and redirected to the workflow_url to download the latest update.
+readonly remote_info_plist='https://raw.githubusercontent.com/erikopinaldo/alfred-zendesk-shortcuts/main/info.plist'
+##This is the link where the user will download the latest update.
+readonly workflow_url='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
+##The amount of days between update checks.
+##Change to 0 if testing and it will check every single time.
+##!Don't forget to change it back before exporting! 4 days is recommended.
+readonly frequency_check='0'
+##This homepage will be used only as a fallback if something goes wrong with the update checks.
+readonly home_page='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
+
+#FROM HERE ON, CODE SHOULD BE LEFT UNTOUCHED!
+
+readonly download_type='page'
+
+function abort {
+  open "${home_page}"
+  notification 'Please check the Canvas in #doms-alfred-workflows for a fix, or raise in #feedback-alfred-debug-tools' 'UPDATE SERVER ERROR'
+  echo "${1}" &gt;&amp;2
+  exit 1
+}
+
+#check to see if the URL can be reached. If it can't a notification is posted below.
+function url_exists {
+  curl --silent --location --output /dev/null --fail --range 0-0 "${1}" 
+}
+
+#Update notifications. Uses 'Notificator'. Either 'You're up to date' or 'Update available, redirecting you to download'
+function notification {
+  local -r notificator="$(find . -type f -name 'notificator')"
+  if [[ -f "${notificator}" &amp;&amp; "$(/usr/bin/file --brief --mime-type "${notificator}")" == 'text/x-shellscript' ]]; then
+    "${notificator}" --message "${1}" --title "CE Debug Tools for Alfred" --subtitle "${2}" --sound 'Funk'
+    return
+  fi
+
+#use applescript for notifications if Notificator fails
+  osascript -e "display notification \"${1}\" with title \"Alfred ${alfred_workflow_name} Updater \" subtitle \"${2}\""
+}
+
+# Local sanity checks. Creates a temporary file to compare with the remote version.
+readonly local_info_plist='info.plist'
+readonly local_version="$(/usr/libexec/PlistBuddy -c 'print version' "${local_info_plist}")"
+
+[[ -n "${local_version}" ]] || abort 'You need to set a workflow version in the configuration sheet.'
+
+# Check if the remote version can be reached
+if [[ $(find "${local_info_plist}" -mtime +"${frequency_check}"d) ]]; then
+  if ! url_exists "${remote_info_plist}"; then
+    abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
+
+
+#creates a temp file of the remote version to compare with the local version.
+  readonly tmp_file="$(mktemp)"
+  curl --location --output "${tmp_file}" "${remote_info_plist}" -H 'Accept: application/vnd.github.v3.raw' 
+  readonly remote_version="$(/usr/libexec/PlistBuddy -c 'print version' "${tmp_file}")"
+
+#compare the local and remote files to see if an update is available.
+#if they're the, same notifies 'You are up to date!' and then resets the timer.
+  if [[ "${local_version}" == "${remote_version}" ]]; then
+	notification "(${remote_version}) You are up to date!"
+    touch "${local_info_plist}" # Reset timer by touching local file
+    exit 0
+  fi
+
+  if url_exists "${workflow_url}"; then
+    notification "Update available v(${remote_version}) launching update page..."
+    open "${workflow_url}"
+  else
+    abort "'workflow_url' (${workflow_url}) appears to not be reachable."
+  fi
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>updateCheck</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>A5C7B48D-BC7A-472B-9991-0BD52B523021</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>AFC6415B-B543-40EC-AF43-C5114EA9D123</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>AED3CF64-85AB-423F-87C6-311D6424CB3E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>2C5D260F-AF7B-4838-8E95-B7311140529F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>43</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>,</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>15631030742931</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+// Click assignee dropdown menu
+		activeTicket.querySelectorAll(`[data-agent-workspace-onboarding-id='assigneeField']`)[0].click();
+		"
+
+-- Click on Support assignee
+
+	delay 0.5
+
+	execute theTab javascript "
+		activeTicket.getElementsByClassName('lkJzpj')[0].click();
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>30</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>]</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>39</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>'</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>47</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>.</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		
+		document.querySelectorAll(`[data-test-id='views_icon']`)[0].click();
+
+		// Click views refresh button
+		document.querySelectorAll(`[data-view-id='${ {query} }']`)[0].click();
+		
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>15630863536403</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>3760B27B-03AF-49DE-B306-A6AE74A2D702</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>1500026128162</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>44</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>/</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>2A61E696-A907-49BE-8690-6C500404D9E2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+
+// Click status dropdown menu button
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-button']`)[0].click();
+		"
+
+-- Submit as Pending
+
+	delay 0.5
+
+	execute theTab javascript "
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-hold']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4F17AA8A-7BCC-4237-877B-CBB460D2176C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>2</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>D</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+
+// Click status dropdown menu button
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-button']`)[0].click();
+		"
+
+-- Submit as Pending
+
+	delay 0.5
+
+	execute theTab javascript "
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-pending']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>35</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>P</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		
+
+		// Click views refresh button
+		document.querySelectorAll(`[data-test-id='views_views-list_header-refresh']`)[0].click();
+		
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>15</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>R</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>8930D7F6-18B8-4CFE-A63C-C8936891C60F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>81C7E2E7-DFDF-453F-8132-0D629B5F741B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>46</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>M</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>9522E6B9-0EA5-4E59-854B-7386BA66F290</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='ticket-composer-toolbar-toolbar-button']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>71DF99AC-74FA-4FD4-9602-38DE9098E951</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>13</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>W</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+
+		// Define global variable for the ticket tab toolbar
+
+		if (typeof alfredToolbar === 'undefined') {
+			alfredToolbar = document.querySelectorAll(`[data-test-id='header-toolbar']`)[0]
+		}
+
+		// If workflow was never run before, define global variable alfredSearchTab
+		// Else, (re)define alfredSearchTab according to whatever comes up from the querySelectorAll method (could be an empty NodeList, could be the search tab if present)
+	
+		if (typeof alfredSearchTab === 'undefined') {
+			alfredSearchTab = document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')
+		}
+		else {
+			alfredSearchTab = document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')
+		}
+
+		// Get current active ticket 
+
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// If Search tab is open, close it
+		// Else, close the active ticket
+
+		if (alfredSearchTab.length &gt; 0 &amp;&amp; (alfredSearchTab[0].style.length === 0 || alfredSearchTab[0].style.display === 'block')) {
+			alfredToolbar.querySelectorAll(`[data-entity-type='search'] &gt; button`)[0].click()
+		}
+		else {
+			// Get current ticket number 
+			currentTicketNumber = activeTicket.querySelectorAll('section &gt; div')[5].getAttribute('data-side-conversations-modal-id')
+
+			// Close current ticket tab
+
+			alfredToolbar.querySelectorAll(`[data-entity-id='${currentTicketNumber}'] &gt; button`)[0].click();
+		}
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied {var:split1}!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Get Requester Name</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:split1}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>3</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>F</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>89136E68-9E37-4CD6-BFB1-A45027E8883E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>4453E755-D412-440B-93F7-A5F7726532FD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>4C145FBB-5760-498A-A96F-DE1E24E8CC13</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{var:split1}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Snippets</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>18CC0D6C-B435-47BA-8CD2-4AFD32EB2022</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>A5C455F1-8B26-4402-BE49-2EA733A73C88</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>15432BD0-E89D-4E01-A8C5-8F0CF1201882</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtextrtf</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0\c84706\cname controlTextColor;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf2 Hi \{var:split1\}, \
+\
+Thanks for reaching out, although I apologize for the troubles you are experiencing with Slack. I'll try my best to help.\
+\
+To help me troubleshoot this issue, would you be able to provide some additional information?\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f1\fs24 \cf0 {\listtext	\uc0\u8226 	}
+\f0\fs26 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 \
+I'll be standing by to support further. Please let me know if you have any additional questions. \
+\
+All the best, \
+Erik}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>7E104956-E379-4CFC-9479-1381C72B1DBF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>tixstr</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>D000E405-40FC-4D94-8994-D45A5E36B569</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>1E043B25-B051-45BF-B5CD-6C35EB20C10F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>0A7EB389-C14C-4518-9614-FD66BD70ED24</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{var:split1}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Snippets</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>7D379C18-5B0C-4B88-8EAF-AE04B6B81121</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>D31792B2-8332-4058-897A-6E6F97448A69</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>bugsnip1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>EEDF7D8F-7C65-4B97-9DFE-5B5F95728C07</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>ED928218-88A8-4857-93C0-5644EDCAE4B8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>Hi {var:split1}, 
+
+Thanks for reaching out.
+
+It looks like you are experiencing a bug that our engineers are aware of and need to investigate further. I had a look at the bug report and don't see any tangible updates on it yet, so I don't have a concrete resolution timeline to provide at the moment. However, I've linked your ticket to the bug report so that you are kept in the loop as updates come in.
+
+Please let me know if you have any additional questions.
+
+All the best,
+Erik</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>22952098-E096-47A1-8797-FBC1F116E8A8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>3B5211D7-ED47-4767-8E62-82EE7C5EC04D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{var:split1}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Snippets</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>144172C1-BB98-4BA3-8FA2-5DB8818F8472</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>EB6261E5-84A5-4C51-8A24-1F2A942D0A55</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>34975508-90FC-4169-89F7-001DD52FAF14</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>Hi {var:split1}, 
+
+It looks like you are experiencing a bug that our engineers are aware of and need to investigate further. I had a look at the bug report and don't see any tangible updates on it yet, so I don't have a concrete resolution timeline to provide at the moment. However, I've linked your ticket to the bug report so that you are kept in the loop as updates come in.
+
+Please let me know if you have any additional questions.
+
+All the best,
+Erik</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>02EE251F-A116-42AC-9ACB-40591A2FA72D</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>bugsnip2</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>4E390760-F004-464D-99CE-1258D95B78D0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>60047BD2-78C4-46DF-853F-B68EA54CF309</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>FD8AC9AA-C2D2-44AD-BB37-64DC8F56FB64</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>925</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
+		<key>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>630</integer>
+			<key>ypos</key>
+			<integer>3135</integer>
+		</dict>
+		<key>02EE251F-A116-42AC-9ACB-40591A2FA72D</key>
+		<dict>
+			<key>note</key>
+			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
+			<key>xpos</key>
+			<integer>860</integer>
+			<key>ypos</key>
+			<integer>3105</integer>
+		</dict>
+		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Assign to Self</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>635</integer>
+		</dict>
+		<key>0A7EB389-C14C-4518-9614-FD66BD70ED24</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>2420</integer>
+		</dict>
+		<key>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>note</key>
+			<string>Self-assign and Submit as On Hold</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>1000</integer>
+		</dict>
+		<key>144172C1-BB98-4BA3-8FA2-5DB8818F8472</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>2955</integer>
+		</dict>
+		<key>15432BD0-E89D-4E01-A8C5-8F0CF1201882</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>2300</integer>
+		</dict>
+		<key>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</key>
+		<dict>
+			<key>note</key>
+			<string>Check for updates to the ZD Shortcuts Alfred workflow. 
+
+If a newer version exists, open download page.</string>
+			<key>xpos</key>
+			<integer>435</integer>
+			<key>ypos</key>
+			<integer>50</integer>
+		</dict>
+		<key>188BE41D-01D9-43D0-A6C5-5536EF345EB3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>note</key>
+			<string>Self-assign and Submit as Pending</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>1165</integer>
+		</dict>
+		<key>18CC0D6C-B435-47BA-8CD2-4AFD32EB2022</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>2175</integer>
+		</dict>
+		<key>1E043B25-B051-45BF-B5CD-6C35EB20C10F</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>630</integer>
+			<key>ypos</key>
+			<integer>2380</integer>
+		</dict>
+		<key>22952098-E096-47A1-8797-FBC1F116E8A8</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>635</integer>
+			<key>ypos</key>
+			<integer>2730</integer>
+		</dict>
+		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Visit All My Tickets</string>
+			<key>xpos</key>
+			<integer>775</integer>
+			<key>ypos</key>
+			<integer>940</integer>
+		</dict>
+		<key>2B1AE771-06E9-4D8C-AA47-9C872671B669</key>
+		<dict>
+			<key>note</key>
+			<string>1. Open your ZD view in browser
+2. Get the VIEW_ID at the end of the URL 
+3. Double click this "&gt;" block
+4. Paste VIEW_ID into the ARGUMENT text field
+5. Save</string>
+			<key>xpos</key>
+			<integer>985</integer>
+			<key>ypos</key>
+			<integer>940</integer>
+		</dict>
+		<key>2C5D260F-AF7B-4838-8E95-B7311140529F</key>
+		<dict>
+			<key>note</key>
+			<string>SECTION: Ticket Assignment Actions</string>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>345</integer>
+		</dict>
+		<key>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</key>
+		<dict>
+			<key>note</key>
+			<string>1. Open your ZD view in browser
+2. Get the VIEW_ID at the end of the URL 
+3. Double click this "&gt;" block
+4. Paste VIEW_ID into the ARGUMENT text field
+5. Save</string>
+			<key>xpos</key>
+			<integer>985</integer>
+			<key>ypos</key>
+			<integer>425</integer>
+		</dict>
+		<key>34975508-90FC-4169-89F7-001DD52FAF14</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>445</integer>
+			<key>ypos</key>
+			<integer>3105</integer>
+		</dict>
+		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>1665</integer>
+		</dict>
+		<key>36972B8F-862A-485B-8B64-EFEC7E4E5318</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1155</integer>
+			<key>ypos</key>
+			<integer>1555</integer>
+		</dict>
+		<key>3760B27B-03AF-49DE-B306-A6AE74A2D702</key>
+		<dict>
+			<key>note</key>
+			<string>SECTION: Ticket Submission Actions</string>
+			<key>xpos</key>
+			<integer>310</integer>
+			<key>ypos</key>
+			<integer>895</integer>
+		</dict>
+		<key>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>390</integer>
+			<key>ypos</key>
+			<integer>635</integer>
+		</dict>
+		<key>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>note</key>
+			<string>GENERAL NOTE 
+
+You'll have to enter your own hotkeys/shortcuts for all of the flows below. To do this: 
+
+1. Double click a hotkey block
+2. Press your desired hotkey combination</string>
+			<key>xpos</key>
+			<integer>35</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Assign to Support</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>3B5211D7-ED47-4767-8E62-82EE7C5EC04D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1080</integer>
+			<key>ypos</key>
+			<integer>2790</integer>
+		</dict>
+		<key>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>2380</integer>
+		</dict>
+		<key>4453E755-D412-440B-93F7-A5F7726532FD</key>
+		<dict>
+			<key>note</key>
+			<string>NOTE: all snippets grab requester name from requester dropdown menu</string>
+			<key>xpos</key>
+			<integer>765</integer>
+			<key>ypos</key>
+			<integer>2165</integer>
+		</dict>
+		<key>4C145FBB-5760-498A-A96F-DE1E24E8CC13</key>
+		<dict>
+			<key>note</key>
+			<string>SECTION: Snippets</string>
+			<key>xpos</key>
+			<integer>635</integer>
+			<key>ypos</key>
+			<integer>2165</integer>
+		</dict>
+		<key>4E390760-F004-464D-99CE-1258D95B78D0</key>
+		<dict>
+			<key>note</key>
+			<string>Get requester name and paste standard ticket introduction response
+
+Double click this block to edit your snippet keyword/trigger</string>
+			<key>xpos</key>
+			<integer>150</integer>
+			<key>ypos</key>
+			<integer>3105</integer>
+		</dict>
+		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>415</integer>
+			<key>ypos</key>
+			<integer>1000</integer>
+		</dict>
+		<key>60047BD2-78C4-46DF-853F-B68EA54CF309</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>755</integer>
+			<key>ypos</key>
+			<integer>3135</integer>
+		</dict>
+		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
+		<dict>
+			<key>xpos</key>
+			<integer>495</integer>
+			<key>ypos</key>
+			<integer>1520</integer>
+		</dict>
+		<key>7D379C18-5B0C-4B88-8EAF-AE04B6B81121</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>2550</integer>
+		</dict>
+		<key>7E104956-E379-4CFC-9479-1381C72B1DBF</key>
+		<dict>
+			<key>note</key>
+			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
+			<key>xpos</key>
+			<integer>860</integer>
+			<key>ypos</key>
+			<integer>2350</integer>
+		</dict>
+		<key>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>445</integer>
+			<key>ypos</key>
+			<integer>2350</integer>
+		</dict>
+		<key>81C7E2E7-DFDF-453F-8132-0D629B5F741B</key>
+		<dict>
+			<key>note</key>
+			<string>SECTION: Misc Ticket Actions</string>
+			<key>xpos</key>
+			<integer>740</integer>
+			<key>ypos</key>
+			<integer>1415</integer>
+		</dict>
+		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>495</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
+		<key>8930D7F6-18B8-4CFE-A63C-C8936891C60F</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Refresh Views</string>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>1195</integer>
+		</dict>
+		<key>89E68E52-EC2A-45B8-811B-02C53559D6C7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1155</integer>
+			<key>ypos</key>
+			<integer>1885</integer>
+		</dict>
+		<key>8EB20A99-DC29-45EB-99E2-398D5BE337E8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>600</integer>
+			<key>ypos</key>
+			<integer>1075</integer>
+		</dict>
+		<key>9522E6B9-0EA5-4E59-854B-7386BA66F290</key>
+		<dict>
+			<key>note</key>
+			<string>Toggle Formatting Menu</string>
+			<key>xpos</key>
+			<integer>205</integer>
+			<key>ypos</key>
+			<integer>1520</integer>
+		</dict>
+		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Visit My Open Tickets</string>
+			<key>xpos</key>
+			<integer>775</integer>
+			<key>ypos</key>
+			<integer>395</integer>
+		</dict>
+		<key>A5C455F1-8B26-4402-BE49-2EA733A73C88</key>
+		<dict>
+			<key>note</key>
+			<string>HOW TO ADD MORE SNIPPETS:
+
+There are 3 example snippet chains here. You can add more of your own by following these steps:
+
+1. Drag your mouse to highlight one entire snippet chain
+2. Command + C to copy that chain
+3. Command + V to paste that chain. You can drag this dupe chain wherever you want
+3. In this dupe chain, double click the beginning "Snippet" block to edit the keyword/shortcut for your snippet
+4. Double click the "Copy to Clipboard" block to edit snippet text content</string>
+			<key>xpos</key>
+			<integer>1305</integer>
+			<key>ypos</key>
+			<integer>2225</integer>
+		</dict>
+		<key>A5C7B48D-BC7A-472B-9991-0BD52B523021</key>
+		<dict>
+			<key>note</key>
+			<string>NOTE: These "Visit My X Tickets" flows work on any ZD page. You don't have to already be on a "view" page of ZD. For example, you could currently have a ticket open and still use these flows to visit a ZD view.</string>
+			<key>xpos</key>
+			<integer>1195</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
+		<key>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</key>
+		<dict>
+			<key>xpos</key>
+			<integer>580</integer>
+			<key>ypos</key>
+			<integer>545</integer>
+		</dict>
+		<key>A8946038-4AEF-427F-8102-6C06DEE68CB7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1200</integer>
+			<key>ypos</key>
+			<integer>655</integer>
+		</dict>
+		<key>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</key>
+		<dict>
+			<key>note</key>
+			<string>1. Open your ZD view in browser
+2. Get the VIEW_ID at the end of the URL 
+3. Double click this "&gt;" block
+4. Paste VIEW_ID into the ARGUMENT text field
+5. Save</string>
+			<key>xpos</key>
+			<integer>985</integer>
+			<key>ypos</key>
+			<integer>685</integer>
+		</dict>
+		<key>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1200</integer>
+			<key>ypos</key>
+			<integer>1195</integer>
+		</dict>
+		<key>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>805</integer>
+			<key>ypos</key>
+			<integer>1840</integer>
+		</dict>
+		<key>AED3CF64-85AB-423F-87C6-311D6424CB3E</key>
+		<dict>
+			<key>note</key>
+			<string>SECTION: ZD View Actions</string>
+			<key>xpos</key>
+			<integer>945</integer>
+			<key>ypos</key>
+			<integer>215</integer>
+		</dict>
+		<key>AFC6415B-B543-40EC-AF43-C5114EA9D123</key>
+		<dict>
+			<key>note</key>
+			<string>NOTE: You can delete or duplicate any of the "Visit My X Tickets" flows below based on your needs. The 3 flows below are just some examples of my most commonly visited custom views.</string>
+			<key>xpos</key>
+			<integer>1070</integer>
+			<key>ypos</key>
+			<integer>170</integer>
+		</dict>
+		<key>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<integer>680</integer>
+			<key>ypos</key>
+			<integer>1840</integer>
+		</dict>
+		<key>B55CB91E-ED57-4F1D-B513-45A67866323E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>415</integer>
+			<key>ypos</key>
+			<integer>1165</integer>
+		</dict>
+		<key>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1405</integer>
+			<key>ypos</key>
+			<integer>655</integer>
+		</dict>
+		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>390</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</key>
+		<dict>
+			<key>note</key>
+			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
+			<key>xpos</key>
+			<integer>865</integer>
+			<key>ypos</key>
+			<integer>2700</integer>
+		</dict>
+		<key>C633BBDD-1B8B-4409-9816-24A9663AD786</key>
+		<dict>
+			<key>note</key>
+			<string>Copy Requester First Name (uses Requester dropdown menu)</string>
+			<key>xpos</key>
+			<integer>205</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
+		<key>D000E405-40FC-4D94-8994-D45A5E36B569</key>
+		<dict>
+			<key>note</key>
+			<string>Get requester name and paste standard ticket introduction response
+
+Double click this block to edit your snippet keyword/trigger</string>
+			<key>xpos</key>
+			<integer>150</integer>
+			<key>ypos</key>
+			<integer>2350</integer>
+		</dict>
+		<key>D31792B2-8332-4058-897A-6E6F97448A69</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>2675</integer>
+		</dict>
+		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>175</integer>
+			<key>ypos</key>
+			<integer>50</integer>
+		</dict>
+		<key>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</key>
+		<dict>
+			<key>note</key>
+			<string>Close Current Ticket Tab</string>
+			<key>xpos</key>
+			<integer>205</integer>
+			<key>ypos</key>
+			<integer>1665</integer>
+		</dict>
+		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1155</integer>
+			<key>ypos</key>
+			<integer>1705</integer>
+		</dict>
+		<key>EB6261E5-84A5-4C51-8A24-1F2A942D0A55</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>3080</integer>
+		</dict>
+		<key>ED928218-88A8-4857-93C0-5644EDCAE4B8</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>450</integer>
+			<key>ypos</key>
+			<integer>2700</integer>
+		</dict>
+		<key>EEDF7D8F-7C65-4B97-9DFE-5B5F95728C07</key>
+		<dict>
+			<key>note</key>
+			<string>Get requester name and paste standard ticket introduction response
+
+Double click this block to edit your snippet keyword/trigger</string>
+			<key>xpos</key>
+			<integer>155</integer>
+			<key>ypos</key>
+			<integer>2700</integer>
+		</dict>
+		<key>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>2730</integer>
+		</dict>
+		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Visit My Escalated Tickets</string>
+			<key>xpos</key>
+			<integer>775</integer>
+			<key>ypos</key>
+			<integer>655</integer>
+		</dict>
+		<key>FD8AC9AA-C2D2-44AD-BB37-64DC8F56FB64</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1075</integer>
+			<key>ypos</key>
+			<integer>3205</integer>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>2.0.1</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
