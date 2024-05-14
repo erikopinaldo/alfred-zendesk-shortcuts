@@ -689,7 +689,7 @@ readonly download_type='page'
 
 function abort {
   open "${home_page}"
-  notification 'Please check the Canvas in #doms-alfred-workflows for a fix, or raise in #feedback-alfred-debug-tools' 'UPDATE SERVER ERROR'
+  notification 'Please check #watch-erik-code-things for a fix, or raise in channel' 'UPDATE SERVER ERROR'
   echo "${1}" &gt;&amp;2
   exit 1
 }
@@ -3146,7 +3146,7 @@ Double click this block to edit your snippet keyword/trigger</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2.0.3</string>
+	<string>2.0.4</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
