@@ -679,7 +679,7 @@ readonly workflow_url='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
 ##The amount of days between update checks.
 ##Change to 0 if testing and it will check every single time.
 ##!Don't forget to change it back before exporting! 4 days is recommended.
-readonly frequency_check='0'
+readonly frequency_check='14'
 ##This homepage will be used only as a fallback if something goes wrong with the update checks.
 readonly home_page='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
 
@@ -3065,6 +3065,8 @@ Double click this block to edit your snippet keyword/trigger</string>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
+			<key>note</key>
+			<string>NOTE: DO NOT DELETE THESE UPDATE BLOCKS</string>
 			<key>xpos</key>
 			<integer>175</integer>
 			<key>ypos</key>
@@ -3144,7 +3146,7 @@ Double click this block to edit your snippet keyword/trigger</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2.0.2</string>
+	<string>2.0.3</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
