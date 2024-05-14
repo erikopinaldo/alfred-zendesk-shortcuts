@@ -391,10 +391,15 @@
 	<key>objects</key>
 	<array>
 		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>updateCheck</string>
+			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
+			<string>alfred.workflow.trigger.external</string>
 			<key>uid</key>
-			<string>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</string>
+			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -503,15 +508,10 @@ fi</string>
 			<integer>2</integer>
 		</dict>
 		<dict>
-			<key>config</key>
-			<dict>
-				<key>triggerid</key>
-				<string>updateCheck</string>
-			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
+			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
-			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
+			<string>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -527,7 +527,7 @@ fi</string>
 			<key>type</key>
 			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
-			<string>AFC6415B-B543-40EC-AF43-C5114EA9D123</string>
+			<string>13DA23F1-5580-43FD-A8F4-7F3610E4B169</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -582,7 +582,7 @@ fi</string>
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>15631030742931</string>
+				<string>{var:view1}</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -594,6 +594,37 @@ fi</string>
 			<string>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>30</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>]</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -654,37 +685,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>30</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>]</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>externaltriggerid</key>
 				<string>updateCheck</string>
 				<key>passinputasargument</key>
@@ -698,105 +698,6 @@ end tell</string>
 			<string>alfred.workflow.output.callexternaltrigger</string>
 			<key>uid</key>
 			<string>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>39</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>'</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-    
-	activate
-    
--- Only execute on active tab
-
-	set theTab to active tab of window 1
-
--- Only execute if tab is done loading
-    repeat
-        if (loading of theTab) is false then exit repeat
-    end repeat
-
--- Only execute on active ticket (since ZD has its own tabbing system)
-    execute theTab javascript "
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
-
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
-
-		// Take ticket
-		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
-		"
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -880,8 +781,27 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
-				<string>15630863536403</string>
+				<string>{var:view2}</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -895,29 +815,84 @@ end tell</string>
 			<integer>1</integer>
 		</dict>
 		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
+			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>3760B27B-03AF-49DE-B306-A6AE74A2D702</string>
+			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
 				<key>argument</key>
-				<string>1500026128162</string>
-				<key>passthroughargument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
 				<false/>
-				<key>variables</key>
-				<dict/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>39</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>'</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -947,6 +922,107 @@ end tell</string>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
 			<string>2A61E696-A907-49BE-8690-6C500404D9E2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:view3}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>3760B27B-03AF-49DE-B306-A6AE74A2D702</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		
+
+		// Click views refresh button
+		document.querySelectorAll(`[data-test-id='views_views-list_header-refresh']`)[0].click();
+		
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>15</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>R</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>8930D7F6-18B8-4CFE-A63C-C8936891C60F</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1060,6 +1136,45 @@ end tell</string>
 			<integer>1</integer>
 		</dict>
 		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>81C7E2E7-DFDF-453F-8132-0D629B5F741B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>35</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>P</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
 			<key>config</key>
 			<dict>
 				<key>concurrently</key>
@@ -1117,121 +1232,6 @@ end tell</string>
 			<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>35</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>P</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-    
-	activate
-    
--- Only execute on active tab
-
-	set theTab to active tab of window 1
-
--- Only execute if tab is done loading
-    repeat
-        if (loading of theTab) is false then exit repeat
-    end repeat
-
--- Only execute on active ticket (since ZD has its own tabbing system)
-    execute theTab javascript "
-		
-
-		// Click views refresh button
-		document.querySelectorAll(`[data-test-id='views_views-list_header-refresh']`)[0].click();
-		
-	"
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>15</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>R</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>8930D7F6-18B8-4CFE-A63C-C8936891C60F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>81C7E2E7-DFDF-453F-8132-0D629B5F741B</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1335,37 +1335,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>13</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>W</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1445,6 +1414,37 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>13</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>W</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>lastpathcomponent</key>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
@@ -1462,56 +1462,6 @@ end tell</string>
 			<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{var:split1}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>3</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>F</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1583,6 +1533,56 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:split1}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>3</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>F</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>delimiter</key>
 				<string>\r\n</string>
 				<key>trimarguments</key>
@@ -1631,15 +1631,46 @@ end tell</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Keyboard shortcuts for Zendesk. 
+
+* Ticket assignment actions
+    * Assign to Support
+    * Assign to Self
+    * Assign to Self and set to On Hold
+    * Assign to Self and set to Pending
+       
+* Misc ticket actions
+    * Toggle formatting menu
+    * Close current ticket tab
+    * Copy requester first name 
+
+* ZD view shortcuts
+    * Refresh all views
+    * Shortcuts for opening up to 3 Zendesk views (see instructions below)
+
+===========================
+
+HOW TO ADD VIEW SHORTCUTS
+
+===========================
+
+1. Open your ZD view in browser
+
+2. Get the VIEW ID at the end of the URL 
+
+3. In the 'Variables' box to the left, double click any value field 
+
+4. Paste VIEW ID 
+
+5. Import</string>
 	<key>uidata</key>
 	<dict>
 		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>925</integer>
+			<integer>1195</integer>
 			<key>ypos</key>
-			<integer>1810</integer>
+			<integer>1400</integer>
 		</dict>
 		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
 		<dict>
@@ -1648,9 +1679,9 @@ end tell</string>
 			<key>note</key>
 			<string>Assign to Self</string>
 			<key>xpos</key>
-			<integer>120</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>635</integer>
+			<integer>550</integer>
 		</dict>
 		<key>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</key>
 		<dict>
@@ -1659,9 +1690,18 @@ end tell</string>
 			<key>note</key>
 			<string>Self-assign and Submit as On Hold</string>
 			<key>xpos</key>
-			<integer>120</integer>
+			<integer>15</integer>
 			<key>ypos</key>
-			<integer>1000</integer>
+			<integer>865</integer>
+		</dict>
+		<key>13DA23F1-5580-43FD-A8F4-7F3610E4B169</key>
+		<dict>
+			<key>note</key>
+			<string>NOTE: you can always change your saved view shortcuts by clicking the [x] icon at the very top right of Alfred. This icon is in the toolbar that also contains the bug icon.</string>
+			<key>xpos</key>
+			<integer>1050</integer>
+			<key>ypos</key>
+			<integer>35</integer>
 		</dict>
 		<key>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</key>
 		<dict>
@@ -1670,9 +1710,9 @@ end tell</string>
 
 If a newer version exists, open download page.</string>
 			<key>xpos</key>
-			<integer>435</integer>
+			<integer>245</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>10</integer>
 		</dict>
 		<key>188BE41D-01D9-43D0-A6C5-5536EF345EB3</key>
 		<dict>
@@ -1681,87 +1721,73 @@ If a newer version exists, open download page.</string>
 			<key>note</key>
 			<string>Self-assign and Submit as Pending</string>
 			<key>xpos</key>
-			<integer>120</integer>
+			<integer>15</integer>
 			<key>ypos</key>
-			<integer>1165</integer>
+			<integer>1030</integer>
 		</dict>
 		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>10</integer>
 			<key>note</key>
-			<string>Visit All My Tickets
-
-('Right click this block &gt; Edit Note...' to change the label)</string>
+			<string>View3</string>
 			<key>xpos</key>
-			<integer>775</integer>
+			<integer>640</integer>
 			<key>ypos</key>
-			<integer>940</integer>
+			<integer>630</integer>
 		</dict>
 		<key>2B1AE771-06E9-4D8C-AA47-9C872671B669</key>
 		<dict>
-			<key>note</key>
-			<string>1. Open your ZD view in browser
-2. Get the VIEW_ID at the end of the URL 
-3. Double click this "&gt;" block
-4. Paste VIEW_ID into the ARGUMENT text field
-5. Save</string>
 			<key>xpos</key>
-			<integer>985</integer>
+			<integer>850</integer>
 			<key>ypos</key>
-			<integer>940</integer>
+			<integer>660</integer>
 		</dict>
 		<key>2C5D260F-AF7B-4838-8E95-B7311140529F</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Ticket Assignment Actions</string>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>180</integer>
 			<key>ypos</key>
-			<integer>345</integer>
+			<integer>250</integer>
 		</dict>
 		<key>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</key>
 		<dict>
-			<key>note</key>
-			<string>1. Open your ZD view in browser
-2. Get the VIEW_ID at the end of the URL 
-3. Double click this "&gt;" block
-4. Paste VIEW_ID into the ARGUMENT text field
-5. Save</string>
 			<key>xpos</key>
-			<integer>985</integer>
+			<integer>850</integer>
 			<key>ypos</key>
-			<integer>425</integer>
+			<integer>340</integer>
 		</dict>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>770</integer>
 			<key>ypos</key>
-			<integer>1665</integer>
+			<integer>1255</integer>
 		</dict>
 		<key>36972B8F-862A-485B-8B64-EFEC7E4E5318</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1155</integer>
+			<integer>1425</integer>
 			<key>ypos</key>
-			<integer>1555</integer>
+			<integer>1145</integer>
 		</dict>
 		<key>3760B27B-03AF-49DE-B306-A6AE74A2D702</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Ticket Submission Actions</string>
 			<key>xpos</key>
-			<integer>310</integer>
+			<integer>180</integer>
 			<key>ypos</key>
-			<integer>895</integer>
+			<integer>750</integer>
 		</dict>
 		<key>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>390</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>635</integer>
+			<integer>550</integer>
 		</dict>
 		<key>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</key>
 		<dict>
@@ -1786,41 +1812,41 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>note</key>
 			<string>Assign to Support</string>
 			<key>xpos</key>
-			<integer>120</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>470</integer>
+			<integer>385</integer>
 		</dict>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>415</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>1000</integer>
+			<integer>865</integer>
 		</dict>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<dict>
 			<key>xpos</key>
-			<integer>495</integer>
+			<integer>765</integer>
 			<key>ypos</key>
-			<integer>1520</integer>
+			<integer>1110</integer>
 		</dict>
 		<key>81C7E2E7-DFDF-453F-8132-0D629B5F741B</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Misc Ticket Actions</string>
 			<key>xpos</key>
-			<integer>740</integer>
+			<integer>1010</integer>
 			<key>ypos</key>
-			<integer>1415</integer>
+			<integer>1005</integer>
 		</dict>
 		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
 		<dict>
 			<key>note</key>
 			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
 			<key>xpos</key>
-			<integer>495</integer>
+			<integer>765</integer>
 			<key>ypos</key>
-			<integer>1810</integer>
+			<integer>1400</integer>
 		</dict>
 		<key>8930D7F6-18B8-4CFE-A63C-C8936891C60F</key>
 		<dict>
@@ -1829,199 +1855,189 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>note</key>
 			<string>Refresh Views</string>
 			<key>xpos</key>
-			<integer>780</integer>
+			<integer>640</integer>
 			<key>ypos</key>
-			<integer>1195</integer>
+			<integer>785</integer>
 		</dict>
 		<key>89E68E52-EC2A-45B8-811B-02C53559D6C7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1155</integer>
+			<integer>1425</integer>
 			<key>ypos</key>
-			<integer>1885</integer>
+			<integer>1475</integer>
 		</dict>
 		<key>8EB20A99-DC29-45EB-99E2-398D5BE337E8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>420</integer>
 			<key>ypos</key>
-			<integer>1075</integer>
+			<integer>940</integer>
 		</dict>
 		<key>9522E6B9-0EA5-4E59-854B-7386BA66F290</key>
 		<dict>
 			<key>note</key>
 			<string>Toggle Formatting Menu</string>
 			<key>xpos</key>
-			<integer>205</integer>
+			<integer>475</integer>
 			<key>ypos</key>
-			<integer>1520</integer>
+			<integer>1110</integer>
 		</dict>
 		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>10</integer>
 			<key>note</key>
-			<string>Visit My Open Tickets
-
-('Right click this block &gt; Edit Note...' to change the label)</string>
+			<string>View1</string>
 			<key>xpos</key>
-			<integer>775</integer>
+			<integer>640</integer>
 			<key>ypos</key>
-			<integer>395</integer>
+			<integer>310</integer>
 		</dict>
 		<key>A5C7B48D-BC7A-472B-9991-0BD52B523021</key>
 		<dict>
 			<key>note</key>
 			<string>NOTE: These "Visit My X Tickets" flows work on any ZD page. You don't have to already be on a "view" page of ZD. For example, you could currently have a ticket open and still use these flows to visit a ZD view.</string>
 			<key>xpos</key>
-			<integer>1195</integer>
+			<integer>940</integer>
 			<key>ypos</key>
-			<integer>170</integer>
+			<integer>35</integer>
 		</dict>
 		<key>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</key>
 		<dict>
 			<key>xpos</key>
-			<integer>580</integer>
+			<integer>425</integer>
 			<key>ypos</key>
-			<integer>545</integer>
+			<integer>460</integer>
 		</dict>
 		<key>A8946038-4AEF-427F-8102-6C06DEE68CB7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1200</integer>
+			<integer>1065</integer>
 			<key>ypos</key>
-			<integer>655</integer>
+			<integer>470</integer>
 		</dict>
 		<key>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</key>
 		<dict>
-			<key>note</key>
-			<string>1. Open your ZD view in browser
-2. Get the VIEW_ID at the end of the URL 
-3. Double click this "&gt;" block
-4. Paste VIEW_ID into the ARGUMENT text field
-5. Save</string>
 			<key>xpos</key>
-			<integer>985</integer>
+			<integer>850</integer>
 			<key>ypos</key>
-			<integer>685</integer>
+			<integer>500</integer>
 		</dict>
 		<key>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1200</integer>
+			<integer>1065</integer>
 			<key>ypos</key>
-			<integer>1195</integer>
+			<integer>785</integer>
 		</dict>
 		<key>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</key>
 		<dict>
 			<key>note</key>
 			<string>Only pass requesterName from previous split</string>
 			<key>xpos</key>
-			<integer>805</integer>
+			<integer>1075</integer>
 			<key>ypos</key>
-			<integer>1840</integer>
+			<integer>1430</integer>
 		</dict>
 		<key>AED3CF64-85AB-423F-87C6-311D6424CB3E</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: ZD View Actions</string>
 			<key>xpos</key>
-			<integer>945</integer>
+			<integer>830</integer>
 			<key>ypos</key>
-			<integer>215</integer>
-		</dict>
-		<key>AFC6415B-B543-40EC-AF43-C5114EA9D123</key>
-		<dict>
-			<key>note</key>
-			<string>NOTE: You can delete or duplicate any of the "Visit My X Tickets" flows below based on your needs. The 3 flows below are just some examples of my most commonly visited custom views.</string>
-			<key>xpos</key>
-			<integer>1070</integer>
-			<key>ypos</key>
-			<integer>170</integer>
+			<integer>130</integer>
 		</dict>
 		<key>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</key>
 		<dict>
 			<key>note</key>
 			<string>Split requester name value from previous step to create an array with shape [requesterName, CRLF]</string>
 			<key>xpos</key>
-			<integer>680</integer>
+			<integer>950</integer>
 			<key>ypos</key>
-			<integer>1840</integer>
+			<integer>1430</integer>
 		</dict>
 		<key>B55CB91E-ED57-4F1D-B513-45A67866323E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>415</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>1165</integer>
+			<integer>1030</integer>
 		</dict>
 		<key>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1405</integer>
+			<integer>1270</integer>
 			<key>ypos</key>
-			<integer>655</integer>
+			<integer>470</integer>
 		</dict>
 		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>390</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>470</integer>
+			<integer>385</integer>
 		</dict>
 		<key>C633BBDD-1B8B-4409-9816-24A9663AD786</key>
 		<dict>
 			<key>note</key>
 			<string>Copy Requester First Name (uses Requester dropdown menu)</string>
 			<key>xpos</key>
-			<integer>205</integer>
+			<integer>475</integer>
 			<key>ypos</key>
-			<integer>1810</integer>
+			<integer>1400</integer>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
 			<key>note</key>
 			<string>NOTE: DO NOT DELETE THESE UPDATE BLOCKS</string>
 			<key>xpos</key>
-			<integer>175</integer>
+			<integer>110</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>10</integer>
 		</dict>
 		<key>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</key>
 		<dict>
 			<key>note</key>
 			<string>Close Current Ticket Tab</string>
 			<key>xpos</key>
-			<integer>205</integer>
+			<integer>475</integer>
 			<key>ypos</key>
-			<integer>1665</integer>
+			<integer>1255</integer>
 		</dict>
 		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1155</integer>
+			<integer>1425</integer>
 			<key>ypos</key>
-			<integer>1705</integer>
+			<integer>1295</integer>
 		</dict>
 		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>10</integer>
 			<key>note</key>
-			<string>Visit My Escalated Tickets
-
-('Right click this block &gt; Edit Note...' to change the label)</string>
+			<string>View2</string>
 			<key>xpos</key>
-			<integer>775</integer>
+			<integer>640</integer>
 			<key>ypos</key>
-			<integer>655</integer>
+			<integer>470</integer>
 		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>view1</key>
+		<string>Enter VIEW ID here</string>
+		<key>view2</key>
+		<string>Enter VIEW ID here</string>
+		<key>view3</key>
+		<string>Enter VIEW ID here</string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
 </plist>
