@@ -41,52 +41,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>60047BD2-78C4-46DF-853F-B68EA54CF309</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>02EE251F-A116-42AC-9ACB-40591A2FA72D</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>144172C1-BB98-4BA3-8FA2-5DB8818F8472</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>EB6261E5-84A5-4C51-8A24-1F2A942D0A55</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>FD8AC9AA-C2D2-44AD-BB37-64DC8F56FB64</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
 		<array>
 			<dict>
@@ -118,32 +72,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>1E043B25-B051-45BF-B5CD-6C35EB20C10F</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>22952098-E096-47A1-8797-FBC1F116E8A8</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -191,19 +119,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>34975508-90FC-4169-89F7-001DD52FAF14</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<array>
 			<dict>
@@ -243,32 +158,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>7E104956-E379-4CFC-9479-1381C72B1DBF</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>4E390760-F004-464D-99CE-1258D95B78D0</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>34975508-90FC-4169-89F7-001DD52FAF14</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<array>
 			<dict>
@@ -282,70 +171,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>60047BD2-78C4-46DF-853F-B68EA54CF309</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>02EE251F-A116-42AC-9ACB-40591A2FA72D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>7E104956-E379-4CFC-9479-1381C72B1DBF</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>18CC0D6C-B435-47BA-8CD2-4AFD32EB2022</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>15432BD0-E89D-4E01-A8C5-8F0CF1201882</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>0A7EB389-C14C-4518-9614-FD66BD70ED24</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>1E043B25-B051-45BF-B5CD-6C35EB20C10F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -497,57 +327,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>7D379C18-5B0C-4B88-8EAF-AE04B6B81121</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>D31792B2-8332-4058-897A-6E6F97448A69</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>3B5211D7-ED47-4767-8E62-82EE7C5EC04D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>C633BBDD-1B8B-4409-9816-24A9663AD786</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>89136E68-9E37-4CD6-BFB1-A45027E8883E</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>D000E405-40FC-4D94-8994-D45A5E36B569</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -574,45 +358,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>ED928218-88A8-4857-93C0-5644EDCAE4B8</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>22952098-E096-47A1-8797-FBC1F116E8A8</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>EEDF7D8F-7C65-4B97-9DFE-5B5F95728C07</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>ED928218-88A8-4857-93C0-5644EDCAE4B8</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -1884,644 +1629,6 @@ end tell</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>4453E755-D412-440B-93F7-A5F7726532FD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>4C145FBB-5760-498A-A96F-DE1E24E8CC13</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>Copied "{var:split1}"!</string>
-				<key>title</key>
-				<string>ZD Shortcuts – Snippets</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>18CC0D6C-B435-47BA-8CD2-4AFD32EB2022</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>A5C455F1-8B26-4402-BE49-2EA733A73C88</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>soundname</key>
-				<string>Tink</string>
-				<key>systemsound</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.playsound</string>
-			<key>uid</key>
-			<string>15432BD0-E89D-4E01-A8C5-8F0CF1201882</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtextrtf</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0\c84706\cname controlTextColor;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs26 \cf2 Hi \{var:split1\}, \
-\
-Thanks for reaching out, although I apologize for the troubles you are experiencing with Slack. I'll try my best to help.\
-\
-To help me troubleshoot this issue, would you be able to provide some additional information?\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
-\ls1\ilvl0
-\f1\fs24 \cf0 {\listtext	\uc0\u8226 	}
-\f0\fs26 \cf2 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-\cf2 \
-I'll be standing by to support further. Please let me know if you have any additional questions. \
-\
-All the best, \
-Erik}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>7E104956-E379-4CFC-9479-1381C72B1DBF</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>keyword</key>
-				<string>tixstr</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.snippet</string>
-			<key>uid</key>
-			<string>D000E405-40FC-4D94-8994-D45A5E36B569</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-    
-	activate
-    
--- Only execute on active tab
-
-	set theTab to active tab of window 1
-
--- Only execute if tab is done loading
-    repeat
-        if (loading of theTab) is false then exit repeat
-    end repeat
-
--- Only execute on active ticket (since ZD has its own tabbing system)
-    return execute theTab javascript " function getRequesterName() {
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
-
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
-
-		// Get requester name from requester dropdown
-		// Grab only the first substring
-		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
-		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
-		
-		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
-
-		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
-
-		console.log(requesterNameNormal)
-		
-		// Note: return value has trailing CRLF
-		// This needs to be trimmed in subsequent Alfred steps
-		// For some reason, this Applescript isn't playing nice with trimming 
-
-		return requesterNameNormal
-		}
-
-		getRequesterName()
-
-		"
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{var:split1}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>delimiter</key>
-				<string>\r\n</string>
-				<key>trimarguments</key>
-				<true/>
-				<key>variableprefix</key>
-				<string>split</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.split</string>
-			<key>uid</key>
-			<string>1E043B25-B051-45BF-B5CD-6C35EB20C10F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>0A7EB389-C14C-4518-9614-FD66BD70ED24</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>Copied "{var:split1}"!</string>
-				<key>title</key>
-				<string>ZD Shortcuts – Snippets</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>7D379C18-5B0C-4B88-8EAF-AE04B6B81121</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>soundname</key>
-				<string>Tink</string>
-				<key>systemsound</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.playsound</string>
-			<key>uid</key>
-			<string>D31792B2-8332-4058-897A-6E6F97448A69</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>keyword</key>
-				<string>bugsnip1</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.snippet</string>
-			<key>uid</key>
-			<string>EEDF7D8F-7C65-4B97-9DFE-5B5F95728C07</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-    
-	activate
-    
--- Only execute on active tab
-
-	set theTab to active tab of window 1
-
--- Only execute if tab is done loading
-    repeat
-        if (loading of theTab) is false then exit repeat
-    end repeat
-
--- Only execute on active ticket (since ZD has its own tabbing system)
-    return execute theTab javascript " function getRequesterName() {
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
-
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
-
-		// Get requester name from requester dropdown
-		// Grab only the first substring
-		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
-		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
-		
-		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
-
-		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
-
-		console.log(requesterNameNormal)
-		
-		// Note: return value has trailing CRLF
-		// This needs to be trimmed in subsequent Alfred steps
-		// For some reason, this Applescript isn't playing nice with trimming 
-
-		return requesterNameNormal
-		}
-
-		getRequesterName()
-
-		"
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>ED928218-88A8-4857-93C0-5644EDCAE4B8</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>Hi {var:split1}, 
-
-Thanks for reaching out.
-
-It looks like you are experiencing a bug that our engineers are aware of and need to investigate further. I had a look at the bug report and don't see any tangible updates on it yet, so I don't have a concrete resolution timeline to provide at the moment. However, I've linked your ticket to the bug report so that you are kept in the loop as updates come in.
-
-Please let me know if you have any additional questions.
-
-All the best,
-Erik</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{var:split1}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>delimiter</key>
-				<string>\r\n</string>
-				<key>trimarguments</key>
-				<true/>
-				<key>variableprefix</key>
-				<string>split</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.split</string>
-			<key>uid</key>
-			<string>22952098-E096-47A1-8797-FBC1F116E8A8</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>3B5211D7-ED47-4767-8E62-82EE7C5EC04D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>Copied "{var:split1}"!</string>
-				<key>title</key>
-				<string>ZD Shortcuts – Snippets</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>144172C1-BB98-4BA3-8FA2-5DB8818F8472</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>soundname</key>
-				<string>Tink</string>
-				<key>systemsound</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.playsound</string>
-			<key>uid</key>
-			<string>EB6261E5-84A5-4C51-8A24-1F2A942D0A55</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-    
-	activate
-    
--- Only execute on active tab
-
-	set theTab to active tab of window 1
-
--- Only execute if tab is done loading
-    repeat
-        if (loading of theTab) is false then exit repeat
-    end repeat
-
--- Only execute on active ticket (since ZD has its own tabbing system)
-    return execute theTab javascript " function getRequesterName() {
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
-
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
-
-		// Get requester name from requester dropdown
-		// Grab only the first substring
-		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
-		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
-		
-		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
-
-		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
-
-		console.log(requesterNameNormal)
-		
-		// Note: return value has trailing CRLF
-		// This needs to be trimmed in subsequent Alfred steps
-		// For some reason, this Applescript isn't playing nice with trimming 
-
-		return requesterNameNormal
-		}
-
-		getRequesterName()
-
-		"
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>34975508-90FC-4169-89F7-001DD52FAF14</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>Hi {var:split1}, 
-
-It looks like you are experiencing a bug that our engineers are aware of and need to investigate further. I had a look at the bug report and don't see any tangible updates on it yet, so I don't have a concrete resolution timeline to provide at the moment. However, I've linked your ticket to the bug report so that you are kept in the loop as updates come in.
-
-Please let me know if you have any additional questions.
-
-All the best,
-Erik</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>02EE251F-A116-42AC-9ACB-40591A2FA72D</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>keyword</key>
-				<string>bugsnip2</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.snippet</string>
-			<key>uid</key>
-			<string>4E390760-F004-464D-99CE-1258D95B78D0</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>delimiter</key>
-				<string>\r\n</string>
-				<key>trimarguments</key>
-				<true/>
-				<key>variableprefix</key>
-				<string>split</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.split</string>
-			<key>uid</key>
-			<string>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{var:split1}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>60047BD2-78C4-46DF-853F-B68EA54CF309</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>FD8AC9AA-C2D2-44AD-BB37-64DC8F56FB64</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -2534,24 +1641,6 @@ Erik</string>
 			<key>ypos</key>
 			<integer>1810</integer>
 		</dict>
-		<key>01539AE2-8823-4EA0-A3FD-CC8FA1C35C19</key>
-		<dict>
-			<key>note</key>
-			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
-			<key>xpos</key>
-			<integer>630</integer>
-			<key>ypos</key>
-			<integer>3135</integer>
-		</dict>
-		<key>02EE251F-A116-42AC-9ACB-40591A2FA72D</key>
-		<dict>
-			<key>note</key>
-			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
-			<key>xpos</key>
-			<integer>860</integer>
-			<key>ypos</key>
-			<integer>3105</integer>
-		</dict>
 		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
 		<dict>
 			<key>colorindex</key>
@@ -2563,13 +1652,6 @@ Erik</string>
 			<key>ypos</key>
 			<integer>635</integer>
 		</dict>
-		<key>0A7EB389-C14C-4518-9614-FD66BD70ED24</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>2420</integer>
-		</dict>
 		<key>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</key>
 		<dict>
 			<key>colorindex</key>
@@ -2580,20 +1662,6 @@ Erik</string>
 			<integer>120</integer>
 			<key>ypos</key>
 			<integer>1000</integer>
-		</dict>
-		<key>144172C1-BB98-4BA3-8FA2-5DB8818F8472</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>2955</integer>
-		</dict>
-		<key>15432BD0-E89D-4E01-A8C5-8F0CF1201882</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>2300</integer>
 		</dict>
 		<key>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</key>
 		<dict>
@@ -2617,37 +1685,14 @@ If a newer version exists, open download page.</string>
 			<key>ypos</key>
 			<integer>1165</integer>
 		</dict>
-		<key>18CC0D6C-B435-47BA-8CD2-4AFD32EB2022</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>2175</integer>
-		</dict>
-		<key>1E043B25-B051-45BF-B5CD-6C35EB20C10F</key>
-		<dict>
-			<key>note</key>
-			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
-			<key>xpos</key>
-			<integer>630</integer>
-			<key>ypos</key>
-			<integer>2380</integer>
-		</dict>
-		<key>22952098-E096-47A1-8797-FBC1F116E8A8</key>
-		<dict>
-			<key>note</key>
-			<string>Split requester name return value from previous step to create an array with shape [requesterName, CRLF]</string>
-			<key>xpos</key>
-			<integer>635</integer>
-			<key>ypos</key>
-			<integer>2730</integer>
-		</dict>
 		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>10</integer>
 			<key>note</key>
-			<string>Visit All My Tickets</string>
+			<string>Visit All My Tickets
+
+('Right click this block &gt; Edit Note...' to change the label)</string>
 			<key>xpos</key>
 			<integer>775</integer>
 			<key>ypos</key>
@@ -2687,15 +1732,6 @@ If a newer version exists, open download page.</string>
 			<integer>985</integer>
 			<key>ypos</key>
 			<integer>425</integer>
-		</dict>
-		<key>34975508-90FC-4169-89F7-001DD52FAF14</key>
-		<dict>
-			<key>note</key>
-			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
-			<key>xpos</key>
-			<integer>445</integer>
-			<key>ypos</key>
-			<integer>3105</integer>
 		</dict>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<dict>
@@ -2754,51 +1790,6 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
-		<key>3B5211D7-ED47-4767-8E62-82EE7C5EC04D</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1080</integer>
-			<key>ypos</key>
-			<integer>2790</integer>
-		</dict>
-		<key>418CA0D3-ECD1-40C5-BF6B-0C02AAFE0182</key>
-		<dict>
-			<key>note</key>
-			<string>Only pass requesterName from previous split</string>
-			<key>xpos</key>
-			<integer>755</integer>
-			<key>ypos</key>
-			<integer>2380</integer>
-		</dict>
-		<key>4453E755-D412-440B-93F7-A5F7726532FD</key>
-		<dict>
-			<key>note</key>
-			<string>NOTE: all snippets grab requester name from requester dropdown menu</string>
-			<key>xpos</key>
-			<integer>765</integer>
-			<key>ypos</key>
-			<integer>2165</integer>
-		</dict>
-		<key>4C145FBB-5760-498A-A96F-DE1E24E8CC13</key>
-		<dict>
-			<key>note</key>
-			<string>SECTION: Snippets</string>
-			<key>xpos</key>
-			<integer>635</integer>
-			<key>ypos</key>
-			<integer>2165</integer>
-		</dict>
-		<key>4E390760-F004-464D-99CE-1258D95B78D0</key>
-		<dict>
-			<key>note</key>
-			<string>Get requester name and paste standard ticket introduction response
-
-Double click this block to edit your snippet keyword/trigger</string>
-			<key>xpos</key>
-			<integer>150</integer>
-			<key>ypos</key>
-			<integer>3105</integer>
-		</dict>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<dict>
 			<key>xpos</key>
@@ -2806,46 +1797,12 @@ Double click this block to edit your snippet keyword/trigger</string>
 			<key>ypos</key>
 			<integer>1000</integer>
 		</dict>
-		<key>60047BD2-78C4-46DF-853F-B68EA54CF309</key>
-		<dict>
-			<key>note</key>
-			<string>Only pass requesterName from previous split</string>
-			<key>xpos</key>
-			<integer>755</integer>
-			<key>ypos</key>
-			<integer>3135</integer>
-		</dict>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<dict>
 			<key>xpos</key>
 			<integer>495</integer>
 			<key>ypos</key>
 			<integer>1520</integer>
-		</dict>
-		<key>7D379C18-5B0C-4B88-8EAF-AE04B6B81121</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>2550</integer>
-		</dict>
-		<key>7E104956-E379-4CFC-9479-1381C72B1DBF</key>
-		<dict>
-			<key>note</key>
-			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
-			<key>xpos</key>
-			<integer>860</integer>
-			<key>ypos</key>
-			<integer>2350</integer>
-		</dict>
-		<key>7EE66CCD-B1BC-49B5-B007-C000BF0D590D</key>
-		<dict>
-			<key>note</key>
-			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
-			<key>xpos</key>
-			<integer>445</integer>
-			<key>ypos</key>
-			<integer>2350</integer>
 		</dict>
 		<key>81C7E2E7-DFDF-453F-8132-0D629B5F741B</key>
 		<dict>
@@ -2904,28 +1861,13 @@ Double click this block to edit your snippet keyword/trigger</string>
 			<key>colorindex</key>
 			<integer>10</integer>
 			<key>note</key>
-			<string>Visit My Open Tickets</string>
+			<string>Visit My Open Tickets
+
+('Right click this block &gt; Edit Note...' to change the label)</string>
 			<key>xpos</key>
 			<integer>775</integer>
 			<key>ypos</key>
 			<integer>395</integer>
-		</dict>
-		<key>A5C455F1-8B26-4402-BE49-2EA733A73C88</key>
-		<dict>
-			<key>note</key>
-			<string>HOW TO ADD MORE SNIPPETS:
-
-There are 3 example snippet chains here. You can add more of your own by following these steps:
-
-1. Drag your mouse to highlight one entire snippet chain
-2. Command + C to copy that chain
-3. Command + V to paste that chain. You can drag this dupe chain wherever you want
-3. In this dupe chain, double click the beginning "Snippet" block to edit the keyword/shortcut for your snippet
-4. Double click the "Copy to Clipboard" block to edit snippet text content</string>
-			<key>xpos</key>
-			<integer>1305</integer>
-			<key>ypos</key>
-			<integer>2225</integer>
 		</dict>
 		<key>A5C7B48D-BC7A-472B-9991-0BD52B523021</key>
 		<dict>
@@ -3027,15 +1969,6 @@ There are 3 example snippet chains here. You can add more of your own by followi
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
-		<key>C4E656BB-7A44-4C75-92D5-AA6D6A492FA4</key>
-		<dict>
-			<key>note</key>
-			<string>Double click this block to edit snippet content. This snippet is pasted into the app in focus</string>
-			<key>xpos</key>
-			<integer>865</integer>
-			<key>ypos</key>
-			<integer>2700</integer>
-		</dict>
 		<key>C633BBDD-1B8B-4409-9816-24A9663AD786</key>
 		<dict>
 			<key>note</key>
@@ -3044,24 +1977,6 @@ There are 3 example snippet chains here. You can add more of your own by followi
 			<integer>205</integer>
 			<key>ypos</key>
 			<integer>1810</integer>
-		</dict>
-		<key>D000E405-40FC-4D94-8994-D45A5E36B569</key>
-		<dict>
-			<key>note</key>
-			<string>Get requester name and paste standard ticket introduction response
-
-Double click this block to edit your snippet keyword/trigger</string>
-			<key>xpos</key>
-			<integer>150</integer>
-			<key>ypos</key>
-			<integer>2350</integer>
-		</dict>
-		<key>D31792B2-8332-4058-897A-6E6F97448A69</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>2675</integer>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
@@ -3088,65 +2003,24 @@ Double click this block to edit your snippet keyword/trigger</string>
 			<key>ypos</key>
 			<integer>1705</integer>
 		</dict>
-		<key>EB6261E5-84A5-4C51-8A24-1F2A942D0A55</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>3080</integer>
-		</dict>
-		<key>ED928218-88A8-4857-93C0-5644EDCAE4B8</key>
-		<dict>
-			<key>note</key>
-			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
-			<key>xpos</key>
-			<integer>450</integer>
-			<key>ypos</key>
-			<integer>2700</integer>
-		</dict>
-		<key>EEDF7D8F-7C65-4B97-9DFE-5B5F95728C07</key>
-		<dict>
-			<key>note</key>
-			<string>Get requester name and paste standard ticket introduction response
-
-Double click this block to edit your snippet keyword/trigger</string>
-			<key>xpos</key>
-			<integer>155</integer>
-			<key>ypos</key>
-			<integer>2700</integer>
-		</dict>
-		<key>F1BFC603-18AD-40DC-87F8-DC0588ADD0EE</key>
-		<dict>
-			<key>note</key>
-			<string>Only pass requesterName from previous split</string>
-			<key>xpos</key>
-			<integer>760</integer>
-			<key>ypos</key>
-			<integer>2730</integer>
-		</dict>
 		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>10</integer>
 			<key>note</key>
-			<string>Visit My Escalated Tickets</string>
+			<string>Visit My Escalated Tickets
+
+('Right click this block &gt; Edit Note...' to change the label)</string>
 			<key>xpos</key>
 			<integer>775</integer>
 			<key>ypos</key>
 			<integer>655</integer>
 		</dict>
-		<key>FD8AC9AA-C2D2-44AD-BB37-64DC8F56FB64</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1075</integer>
-			<key>ypos</key>
-			<integer>3205</integer>
-		</dict>
 	</dict>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2.0.4</string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
