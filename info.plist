@@ -43,6 +43,16 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
+				<string>6BA19E7C-4836-4418-9054-CA94B81D869F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -64,12 +74,45 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6667F494-CB39-420F-82F3-A57AD8751EA9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>188BE41D-01D9-43D0-A6C5-5536EF345EB3</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
+				<string>6667F494-CB39-420F-82F3-A57AD8751EA9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>287B6A54-57E0-45D3-90C7-D31FBA92E2B9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EE654E25-D599-4310-B085-9400A9363C06</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -155,12 +198,50 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6BA19E7C-4836-4418-9054-CA94B81D869F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
+		<key>436E7BD8-90A5-4236-81FC-0CC72B3B7EBD</key>
+		<array/>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>513AEE66-1026-4F54-A7DF-C4008ABF4852</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F45BCC44-3C37-48D0-8368-70233EA956CB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>528A126B-FC9A-4E1F-85C5-567A297A5C46</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>436E7BD8-90A5-4236-81FC-0CC72B3B7EBD</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -208,11 +289,34 @@
 				<false/>
 			</dict>
 		</array>
+		<key>94EC7635-33CB-4B70-B5D0-175FD513129C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>46D27371-797D-45CE-813A-3122F68F3B02</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>9522E6B9-0EA5-4E59-854B-7386BA66F290</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>71DF99AC-74FA-4FD4-9602-38DE9098E951</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>8B74D6C9-34BD-4034-A9AC-96780EAC8049</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -312,6 +416,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>BB4457D7-EAAE-46CF-91D5-426299BDA2B4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CF607B20-6561-49DB-BCB7-CEA78C0BED89</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
 		<array>
 			<dict>
@@ -329,7 +446,30 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
+				<string>8B74D6C9-34BD-4034-A9AC-96780EAC8049</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>89136E68-9E37-4CD6-BFB1-A45027E8883E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CF607B20-6561-49DB-BCB7-CEA78C0BED89</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -355,7 +495,43 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
+				<string>8B74D6C9-34BD-4034-A9AC-96780EAC8049</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EE654E25-D599-4310-B085-9400A9363C06</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F45BCC44-3C37-48D0-8368-70233EA956CB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -388,6 +564,51 @@
 	<string>ZD Shortcuts</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>436E7BD8-90A5-4236-81FC-0CC72B3B7EBD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -486,6 +707,19 @@ fi</string>
 			<string>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>getActiveTicket</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>528A126B-FC9A-4E1F-85C5-567A297A5C46</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -597,6 +831,57 @@ fi</string>
 				<integer>68</integer>
 				<key>script</key>
 				<string>tell application "Google Chrome"
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+    
+-- Only execute on active ticket (since ZD has its own tabbing system)
+
+	delay 0.1
+
+    execute theTab javascript "
+
+		// Click assignee dropdown menu
+		activeTicket.querySelectorAll(`[data-agent-workspace-onboarding-id='assigneeField']`)[0].click();
+		"
+
+-- Click on Support assignee
+
+	delay 0.5
+
+	execute theTab javascript "
+		activeTicket.getElementsByClassName('lkJzpj')[0].click();
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
     
 	activate
 
@@ -640,7 +925,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</string>
+			<string>AB3F5607-05A9-4B88-BC37-ADD6782937A9</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -678,6 +963,54 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>47</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>.</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:view2}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>externaltriggerid</key>
 				<string>updateCheck</string>
 				<key>passinputasargument</key>
@@ -691,6 +1024,25 @@ end tell</string>
 			<string>alfred.workflow.output.callexternaltrigger</string>
 			<key>uid</key>
 			<string>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>getActiveTicket</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>6BA19E7C-4836-4418-9054-CA94B81D869F</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -725,11 +1077,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>47</integer>
+				<integer>44</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>.</string>
+				<string>/</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -740,7 +1092,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</string>
+			<string>2A61E696-A907-49BE-8690-6C500404D9E2</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -793,23 +1145,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string>{var:view2}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>action</key>
 				<integer>0</integer>
 				<key>argument</key>
@@ -835,6 +1170,66 @@ end tell</string>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
 			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:view3}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+
+		// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -883,7 +1278,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
+			<string>E4C562E5-2931-4991-8901-195EDF9FC3C4</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -899,11 +1294,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>44</integer>
+				<integer>27</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>/</string>
+				<string>-</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -914,7 +1309,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>2A61E696-A907-49BE-8690-6C500404D9E2</string>
+			<string>BB4457D7-EAAE-46CF-91D5-426299BDA2B4</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -922,7 +1317,7 @@ end tell</string>
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>{var:view3}</string>
+				<string>{var:view4}</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -931,7 +1326,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+			<string>CF607B20-6561-49DB-BCB7-CEA78C0BED89</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -940,6 +1335,200 @@ end tell</string>
 			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
 			<string>3760B27B-03AF-49DE-B306-A6AE74A2D702</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>24</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>=</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>287B6A54-57E0-45D3-90C7-D31FBA92E2B9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+
+	delay 0.1
+	
+    execute theTab javascript "
+
+		// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+
+		// Click status dropdown menu button
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-button']`)[0].click();
+		"
+
+-- Submit as Pending
+
+	delay 0.5
+
+	execute theTab javascript "
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-hold']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4F17AA8A-7BCC-4237-877B-CBB460D2176C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>2</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>D</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
+
+// Click status dropdown menu button
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-button']`)[0].click();
+		"
+
+-- Submit as Pending
+
+	delay 0.5
+
+	execute theTab javascript "
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-hold']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0903EE85-2544-46B1-8388-7AFFFF8C6490</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:view5}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>EE654E25-D599-4310-B085-9400A9363C06</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1022,6 +1611,128 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>externaltriggerid</key>
+				<string>getActiveTicket</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>6667F494-CB39-420F-82F3-A57AD8751EA9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>42</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>\</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>94EC7635-33CB-4B70-B5D0-175FD513129C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		
+
+		// Click profile icon
+		document.querySelectorAll(`[data-test-id='toolbar-profile-menu-button']`)[0].click();
+		
+	"
+
+-- Click on profile menu list item
+
+	delay 0.5
+
+	execute theTab javascript "
+		document.querySelectorAll(`[data-test-id='toolbar-profile-menu'] &gt; #downshift-1-item-0`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>46D27371-797D-45CE-813A-3122F68F3B02</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1060,7 +1771,7 @@ end tell</string>
 	delay 0.5
 
 	execute theTab javascript "
-		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-hold']`)[0].click();
+		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-pending']`)[0].click();
 		"
 
 end tell</string>
@@ -1074,67 +1785,9 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>4F17AA8A-7BCC-4237-877B-CBB460D2176C</string>
+			<string>E1319FDD-942E-46B7-A5A2-56678B107942</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>2</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>D</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>81C7E2E7-DFDF-453F-8132-0D629B5F741B</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1157,18 +1810,15 @@ end tell</string>
     end repeat
 
 -- Only execute on active ticket (since ZD has its own tabbing system)
-    execute theTab javascript "
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
 
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
+		delay 0.1
 
-// Take ticket
+		execute theTab javascript "
+
+		// Take ticket
 		activeTicket.querySelectorAll(`[data-test-id='assignee-field-take-it-button']`)[0].click();
 
-// Click status dropdown menu button
+		// Click status dropdown menu button
 		activeTicket.querySelectorAll(`[data-test-id='submit_button-menu-button']`)[0].click();
 		"
 
@@ -1227,6 +1877,154 @@ end tell</string>
 			<integer>2</integer>
 		</dict>
 		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>81C7E2E7-DFDF-453F-8132-0D629B5F741B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>45</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>N</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>513AEE66-1026-4F54-A7DF-C4008ABF4852</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		document.querySelectorAll(`[data-test-id='ticket-detail-next-ticket-button']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F45BCC44-3C37-48D0-8368-70233EA956CB</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Take ticket
+		activeTicket.querySelectorAll(`[data-test-id='ticket-composer-toolbar-toolbar-button']`)[0].click();
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>F55D4410-18AB-4754-95D0-E1BCDBAA09E1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
 			<key>config</key>
 			<dict>
 				<key>action</key>
@@ -1279,13 +2077,10 @@ end tell</string>
     end repeat
 
 -- Only execute on active ticket (since ZD has its own tabbing system)
-    execute theTab javascript "
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
+    
+		delay 0.1
 
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
+		execute theTab javascript "
 
 		// Take ticket
 		activeTicket.querySelectorAll(`[data-test-id='ticket-composer-toolbar-toolbar-button']`)[0].click();
@@ -1310,7 +2105,7 @@ end tell</string>
 			<key>config</key>
 			<dict>
 				<key>externaltriggerid</key>
-				<string>updateCheck</string>
+				<string>getActiveTicket</string>
 				<key>passinputasargument</key>
 				<true/>
 				<key>passvariables</key>
@@ -1321,7 +2116,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.output.callexternaltrigger</string>
 			<key>uid</key>
-			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+			<string>8B74D6C9-34BD-4034-A9AC-96780EAC8049</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1431,6 +2226,76 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
+			<string>5F63AD10-3186-4F2A-B4F8-398AA37B6769</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+
+		// Define global variable for the ticket tab toolbar
+
+		if (typeof alfredToolbar === 'undefined') {
+			alfredToolbar = document.querySelectorAll(`[data-test-id='header-toolbar']`)[0]
+		}
+
+		// If workflow was never run before, define global variable alfredSearchTab
+		// Else, (re)define alfredSearchTab according to whatever comes up from the querySelectorAll method (could be an empty NodeList, could be the search tab if present)
+	
+		if (typeof alfredSearchTab === 'undefined') {
+			alfredSearchTab = document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')
+		}
+		else {
+			alfredSearchTab = document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')
+		}
+
+		// If Search tab is open, close it
+		// Else, close the active ticket
+
+		if (alfredSearchTab.length &gt; 0 &amp;&amp; (alfredSearchTab[0].style.length === 0 || alfredSearchTab[0].style.display === 'block')) {
+			alfredToolbar.querySelectorAll(`[data-entity-type='search'] &gt; button`)[0].click()
+		}
+		else {
+			// Get current ticket number 
+			currentTicketNumber = activeTicket.querySelectorAll('section &gt; div')[5].getAttribute('data-side-conversations-modal-id')
+
+			// Close current ticket tab
+
+			alfredToolbar.querySelectorAll(`[data-entity-id='${currentTicketNumber}'] &gt; button`)[0].click();
+		}
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
 			<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
 			<key>version</key>
 			<integer>2</integer>
@@ -1445,7 +2310,7 @@ end tell</string>
 				<key>removeextension</key>
 				<false/>
 				<key>text</key>
-				<string>Copied {var:split1}!</string>
+				<string>Copied "{var:split1}"!</string>
 				<key>title</key>
 				<string>ZD Shortcuts – Get Requester Name</string>
 			</dict>
@@ -1487,11 +2352,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>3</integer>
+				<integer>5</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>F</string>
+				<string>G</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1528,13 +2393,10 @@ end tell</string>
     end repeat
 
 -- Only execute on active ticket (since ZD has its own tabbing system)
-    return execute theTab javascript " function getRequesterName() {
-		if (typeof tickets === 'undefined') {
-			let tickets = document.getElementsByClassName('ember-view workspace')
-			let ticketsArray = Array.from(tickets)
-
-			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
-		}
+    
+	delay 0.1
+	
+	return execute theTab javascript " function getRequesterName() {
 
 		// Get requester name from requester dropdown
 		// Grab only the first substring
@@ -1622,6 +2484,73 @@ end tell</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+    
+-- Only execute on active tab
+
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    return execute theTab javascript " function getRequesterName() {
+		if (typeof tickets === 'undefined') {
+			let tickets = document.getElementsByClassName('ember-view workspace')
+			let ticketsArray = Array.from(tickets)
+
+			activeTicket = ticketsArray.filter(ticket =&gt; ticket.style.length === 0)[0]
+		}
+
+		// Get requester name from requester dropdown
+		// Grab only the first substring
+		// Assuming FIRSTNAME LASTNAME, this would give us the requester's first name
+		// However, this will grab last name if the dropdown is formatted as LASTNAME FIRSTNAME
+		
+		let requesterName = activeTicket.querySelectorAll(`[data-test-id='ticket-system-field-requester-select'] &gt; div &gt; div`)[0].innerText.split(' ')[0];
+
+		let requesterNameNormal = requesterName[0].toUpperCase() + requesterName.substring(1).toLowerCase()
+
+		console.log(requesterNameNormal)
+		
+		// Note: return value has trailing CRLF
+		// This needs to be trimmed in subsequent Alfred steps
+		// For some reason, this Applescript isn't playing nice with trimming 
+
+		return requesterNameNormal
+		}
+
+		getRequesterName()
+
+		"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3441B4B9-5EBF-4F15-B88D-4C7CED1F6C0D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Keyboard shortcuts for Zendesk. 
@@ -1633,13 +2562,15 @@ end tell</string>
     * Assign to Self and set to Pending
        
 * Misc ticket actions
+    * [PLAY MODE] Next ticket
     * Toggle formatting menu
     * Close current ticket tab
     * Copy requester first name 
 
 * ZD view shortcuts
+    * Open my profile
     * Refresh all views
-    * Shortcuts for opening up to 3 Zendesk views (see instructions below)
+    * Shortcuts for opening up to 5 Zendesk views (see instructions below)
 
 ===========================
 
@@ -1661,9 +2592,9 @@ HOW TO ADD VIEW SHORTCUTS
 		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1195</integer>
+			<integer>1025</integer>
 			<key>ypos</key>
-			<integer>1400</integer>
+			<integer>1965</integer>
 		</dict>
 		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
 		<dict>
@@ -1674,7 +2605,14 @@ HOW TO ADD VIEW SHORTCUTS
 			<key>xpos</key>
 			<integer>40</integer>
 			<key>ypos</key>
-			<integer>550</integer>
+			<integer>660</integer>
+		</dict>
+		<key>0903EE85-2544-46B1-8388-7AFFFF8C6490</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>970</integer>
 		</dict>
 		<key>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</key>
 		<dict>
@@ -1683,9 +2621,9 @@ HOW TO ADD VIEW SHORTCUTS
 			<key>note</key>
 			<string>Self-assign and Submit as On Hold</string>
 			<key>xpos</key>
-			<integer>15</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>865</integer>
+			<integer>970</integer>
 		</dict>
 		<key>13DA23F1-5580-43FD-A8F4-7F3610E4B169</key>
 		<dict>
@@ -1714,9 +2652,20 @@ If a newer version exists, open download page.</string>
 			<key>note</key>
 			<string>Self-assign and Submit as Pending</string>
 			<key>xpos</key>
-			<integer>15</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>1030</integer>
+			<integer>1270</integer>
+		</dict>
+		<key>287B6A54-57E0-45D3-90C7-D31FBA92E2B9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>View5</string>
+			<key>xpos</key>
+			<integer>640</integer>
+			<key>ypos</key>
+			<integer>940</integer>
 		</dict>
 		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
 		<dict>
@@ -1752,35 +2701,44 @@ If a newer version exists, open download page.</string>
 			<key>ypos</key>
 			<integer>340</integer>
 		</dict>
+		<key>3441B4B9-5EBF-4F15-B88D-4C7CED1F6C0D</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<integer>600</integer>
+			<key>ypos</key>
+			<integer>2205</integer>
+		</dict>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>770</integer>
+			<integer>600</integer>
 			<key>ypos</key>
-			<integer>1255</integer>
+			<integer>1820</integer>
 		</dict>
 		<key>36972B8F-862A-485B-8B64-EFEC7E4E5318</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1425</integer>
+			<integer>1255</integer>
 			<key>ypos</key>
-			<integer>1145</integer>
+			<integer>1620</integer>
 		</dict>
 		<key>3760B27B-03AF-49DE-B306-A6AE74A2D702</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Ticket Submission Actions</string>
 			<key>xpos</key>
-			<integer>180</integer>
+			<integer>215</integer>
 			<key>ypos</key>
-			<integer>750</integer>
+			<integer>855</integer>
 		</dict>
 		<key>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</key>
 		<dict>
 			<key>xpos</key>
 			<integer>235</integer>
 			<key>ypos</key>
-			<integer>550</integer>
+			<integer>660</integer>
 		</dict>
 		<key>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</key>
 		<dict>
@@ -1809,37 +2767,92 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>ypos</key>
 			<integer>385</integer>
 		</dict>
+		<key>436E7BD8-90A5-4236-81FC-0CC72B3B7EBD</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>46D27371-797D-45CE-813A-3122F68F3B02</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1065</integer>
+			<key>ypos</key>
+			<integer>1250</integer>
+		</dict>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>270</integer>
+			<key>ypos</key>
+			<integer>970</integer>
+		</dict>
+		<key>513AEE66-1026-4F54-A7DF-C4008ABF4852</key>
+		<dict>
+			<key>note</key>
+			<string>[PLAY MODE] Next ticket</string>
+			<key>xpos</key>
+			<integer>305</integer>
+			<key>ypos</key>
+			<integer>1515</integer>
+		</dict>
+		<key>528A126B-FC9A-4E1F-85C5-567A297A5C46</key>
+		<dict>
+			<key>note</key>
+			<string>Get Active Ticket Utility Script
+
+DO NOT DELETE</string>
+			<key>xpos</key>
+			<integer>390</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>5F63AD10-3186-4F2A-B4F8-398AA37B6769</key>
+		<dict>
+			<key>xpos</key>
+			<integer>805</integer>
+			<key>ypos</key>
+			<integer>1820</integer>
+		</dict>
+		<key>6667F494-CB39-420F-82F3-A57AD8751EA9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>270</integer>
+			<key>ypos</key>
+			<integer>1120</integer>
+		</dict>
+		<key>6BA19E7C-4836-4418-9054-CA94B81D869F</key>
 		<dict>
 			<key>xpos</key>
 			<integer>235</integer>
 			<key>ypos</key>
-			<integer>865</integer>
+			<integer>520</integer>
 		</dict>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<dict>
 			<key>xpos</key>
-			<integer>765</integer>
+			<integer>595</integer>
 			<key>ypos</key>
-			<integer>1110</integer>
+			<integer>1675</integer>
 		</dict>
 		<key>81C7E2E7-DFDF-453F-8132-0D629B5F741B</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Misc Ticket Actions</string>
 			<key>xpos</key>
-			<integer>1010</integer>
+			<integer>840</integer>
 			<key>ypos</key>
-			<integer>1005</integer>
+			<integer>1410</integer>
 		</dict>
 		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
 		<dict>
 			<key>note</key>
 			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
 			<key>xpos</key>
-			<integer>765</integer>
+			<integer>600</integer>
 			<key>ypos</key>
-			<integer>1400</integer>
+			<integer>1965</integer>
 		</dict>
 		<key>8930D7F6-18B8-4CFE-A63C-C8936891C60F</key>
 		<dict>
@@ -1850,30 +2863,48 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>xpos</key>
 			<integer>640</integer>
 			<key>ypos</key>
-			<integer>785</integer>
+			<integer>1095</integer>
 		</dict>
 		<key>89E68E52-EC2A-45B8-811B-02C53559D6C7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1425</integer>
+			<integer>1255</integer>
 			<key>ypos</key>
-			<integer>1475</integer>
+			<integer>2040</integer>
+		</dict>
+		<key>8B74D6C9-34BD-4034-A9AC-96780EAC8049</key>
+		<dict>
+			<key>xpos</key>
+			<integer>95</integer>
+			<key>ypos</key>
+			<integer>1760</integer>
 		</dict>
 		<key>8EB20A99-DC29-45EB-99E2-398D5BE337E8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>420</integer>
+			<integer>460</integer>
 			<key>ypos</key>
-			<integer>940</integer>
+			<integer>1135</integer>
+		</dict>
+		<key>94EC7635-33CB-4B70-B5D0-175FD513129C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Open profile</string>
+			<key>xpos</key>
+			<integer>640</integer>
+			<key>ypos</key>
+			<integer>1250</integer>
 		</dict>
 		<key>9522E6B9-0EA5-4E59-854B-7386BA66F290</key>
 		<dict>
 			<key>note</key>
 			<string>Toggle Formatting Menu</string>
 			<key>xpos</key>
-			<integer>475</integer>
+			<integer>305</integer>
 			<key>ypos</key>
-			<integer>1110</integer>
+			<integer>1675</integer>
 		</dict>
 		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
 		<dict>
@@ -1900,14 +2931,21 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>xpos</key>
 			<integer>425</integer>
 			<key>ypos</key>
-			<integer>460</integer>
+			<integer>520</integer>
 		</dict>
 		<key>A8946038-4AEF-427F-8102-6C06DEE68CB7</key>
 		<dict>
 			<key>xpos</key>
 			<integer>1065</integer>
 			<key>ypos</key>
-			<integer>470</integer>
+			<integer>630</integer>
+		</dict>
+		<key>AB3F5607-05A9-4B88-BC37-ADD6782937A9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>425</integer>
+			<key>ypos</key>
+			<integer>385</integer>
 		</dict>
 		<key>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</key>
 		<dict>
@@ -1921,16 +2959,16 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>xpos</key>
 			<integer>1065</integer>
 			<key>ypos</key>
-			<integer>785</integer>
+			<integer>1095</integer>
 		</dict>
 		<key>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</key>
 		<dict>
 			<key>note</key>
 			<string>Only pass requesterName from previous split</string>
 			<key>xpos</key>
-			<integer>1075</integer>
+			<integer>905</integer>
 			<key>ypos</key>
-			<integer>1430</integer>
+			<integer>1995</integer>
 		</dict>
 		<key>AED3CF64-85AB-423F-87C6-311D6424CB3E</key>
 		<dict>
@@ -1946,23 +2984,34 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>note</key>
 			<string>Split requester name value from previous step to create an array with shape [requesterName, CRLF]</string>
 			<key>xpos</key>
-			<integer>950</integer>
+			<integer>780</integer>
 			<key>ypos</key>
-			<integer>1430</integer>
+			<integer>1995</integer>
 		</dict>
 		<key>B55CB91E-ED57-4F1D-B513-45A67866323E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>235</integer>
+			<integer>270</integer>
 			<key>ypos</key>
-			<integer>1030</integer>
+			<integer>1270</integer>
 		</dict>
 		<key>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</key>
 		<dict>
 			<key>xpos</key>
 			<integer>1270</integer>
 			<key>ypos</key>
-			<integer>470</integer>
+			<integer>630</integer>
+		</dict>
+		<key>BB4457D7-EAAE-46CF-91D5-426299BDA2B4</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>View4</string>
+			<key>xpos</key>
+			<integer>640</integer>
+			<key>ypos</key>
+			<integer>785</integer>
 		</dict>
 		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
 		<dict>
@@ -1976,9 +3025,16 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>note</key>
 			<string>Copy Requester First Name (uses Requester dropdown menu)</string>
 			<key>xpos</key>
-			<integer>475</integer>
+			<integer>305</integer>
 			<key>ypos</key>
-			<integer>1400</integer>
+			<integer>1965</integer>
+		</dict>
+		<key>CF607B20-6561-49DB-BCB7-CEA78C0BED89</key>
+		<dict>
+			<key>xpos</key>
+			<integer>850</integer>
+			<key>ypos</key>
+			<integer>815</integer>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
@@ -1994,16 +3050,51 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>note</key>
 			<string>Close Current Ticket Tab</string>
 			<key>xpos</key>
-			<integer>475</integer>
+			<integer>305</integer>
 			<key>ypos</key>
-			<integer>1255</integer>
+			<integer>1820</integer>
 		</dict>
 		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1425</integer>
+			<integer>1255</integer>
 			<key>ypos</key>
-			<integer>1295</integer>
+			<integer>1860</integer>
+		</dict>
+		<key>E1319FDD-942E-46B7-A5A2-56678B107942</key>
+		<dict>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>1270</integer>
+		</dict>
+		<key>E4C562E5-2931-4991-8901-195EDF9FC3C4</key>
+		<dict>
+			<key>xpos</key>
+			<integer>425</integer>
+			<key>ypos</key>
+			<integer>660</integer>
+		</dict>
+		<key>EE654E25-D599-4310-B085-9400A9363C06</key>
+		<dict>
+			<key>xpos</key>
+			<integer>850</integer>
+			<key>ypos</key>
+			<integer>970</integer>
+		</dict>
+		<key>F45BCC44-3C37-48D0-8368-70233EA956CB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>595</integer>
+			<key>ypos</key>
+			<integer>1515</integer>
+		</dict>
+		<key>F55D4410-18AB-4754-95D0-E1BCDBAA09E1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>805</integer>
+			<key>ypos</key>
+			<integer>1675</integer>
 		</dict>
 		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
 		<dict>
@@ -2025,15 +3116,21 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 		<string></string>
 		<key>view3</key>
 		<string></string>
+		<key>view4</key>
+		<string></string>
+		<key>view5</key>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
-		<string>view1</string>
 		<string>view2</string>
+		<string>view5</string>
+		<string>view1</string>
+		<string>view4</string>
 		<string>view3</string>
 	</array>
 	<key>version</key>
-	<string>1.0.1</string>
+	<string>1.1.0-beta</string>
 	<key>webaddress</key>
 	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
