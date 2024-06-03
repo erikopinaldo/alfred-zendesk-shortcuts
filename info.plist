@@ -1046,7 +1046,7 @@ end tell</string>
 readonly remote_info_plist='https://raw.githubusercontent.com/erikopinaldo/alfred-zendesk-shortcuts/main/info.plist'
 readonly workflow_url='erikopinaldo/alfred-zendesk-shortcuts'
 readonly download_type='github_release'
-readonly frequency_check='0'
+readonly frequency_check='4'
 # readonly auth=$(cat '.assets/vars.txt')
 readonly home_page='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
 
