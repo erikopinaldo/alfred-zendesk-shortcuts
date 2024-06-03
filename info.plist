@@ -1046,7 +1046,7 @@ end tell</string>
 readonly remote_info_plist='https://raw.githubusercontent.com/erikopinaldo/alfred-zendesk-shortcuts/main/info.plist'
 readonly workflow_url='erikopinaldo/alfred-zendesk-shortcuts'
 readonly download_type='github_release'
-readonly frequency_check='4'
+readonly frequency_check='0'
 # readonly auth=$(cat '.assets/vars.txt')
 readonly home_page='https://app.slack.com/client/E12KS1G65/Qp:F0739LHNY5R'
 
@@ -3387,7 +3387,9 @@ HOW TO ADD VIEW SHORTCUTS
 
 2. Get the VIEW ID at the end of the URL 
 
-3. In the "Variables" box to the left, double click any value field for the variable "viewX"
+3a. [Alfred 4] In the "Variables" box to the left, double click any value field for the variable "viewX"
+
+3b. [Alfred 5] Import this workflow, click on the [x] icon at the top right of Alfred &gt; Environment Variables &gt; double click any value field for the variable "viewX"
 
 4. Paste VIEW ID 
 
@@ -3407,7 +3409,9 @@ HOW TO SET UP LATEST LOG OPENER
 
 4. You'll see your log folder icon in the Path Bar at the bottom of the Finder window. Right-click that folder icon and click on 'Copy "FOLDER_NAME" as Pathname'
 
-5. In the "Variables" box to the left, double click the value field for the variable "logFolder"
+5a. [Alfred 4] In the "Variables" box to the left, double click the value field for the variable "logFolder"
+
+5b. [Alfred 5] Import this workflow, click on the [x] icon at the top right of Alfred &gt; Environment Variables &gt; double click the value field for the variable "logFolder"
 
 6. Paste the Pathname you previously copied
 
