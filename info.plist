@@ -10,16 +10,6 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
 				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -31,6 +21,16 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -77,6 +77,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>6667F494-CB39-420F-82F3-A57AD8751EA9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ABC2F804-0F8A-45C4-8D5A-BE0C16F0426A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -211,6 +224,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>35FEAD4D-2223-4614-85C8-BB60BE24D977</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</key>
 		<array>
 			<dict>
@@ -249,11 +275,67 @@
 		</array>
 		<key>436E7BD8-90A5-4236-81FC-0CC72B3B7EBD</key>
 		<array/>
+		<key>43F8D8B0-90B8-4A66-97FC-DAE2917F13F7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>46D27371-797D-45CE-813A-3122F68F3B02</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4B14B92D-BFF3-4505-B47D-8B1A7217AF4D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1DEA9046-1359-4038-87D2-6BE123C83885</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -324,6 +406,69 @@
 				<false/>
 			</dict>
 		</array>
+		<key>5D96B277-5FBB-4168-9F8F-1C3661601C97</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>_button1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>55BF9A4C-B1F2-4D2E-B0A8-1916927AFB50</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>_button1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5FB9A8AA-F951-4BBB-BF0B-455896CF6027</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8B74D6C9-34BD-4034-A9AC-96780EAC8049</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE39C5CB-BAF2-4552-9E28-DEFA5585270A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B407E700-5E44-422F-8CC3-DFA5A290B876</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<array>
 			<dict>
@@ -342,6 +487,32 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>2274E87D-CA70-466E-B223-DD3394D52260</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8223B446-96EB-411C-92A0-965C7398A51D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B68BAF07-07FE-48B5-BBF9-603983D44ED3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>85ABBE07-AB01-40CE-880F-4CED6CB58573</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A35090B9-033B-43BA-8A47-DFAA081E93C7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -412,11 +583,37 @@
 				<false/>
 			</dict>
 		</array>
+		<key>A35090B9-033B-43BA-8A47-DFAA081E93C7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ECA80E6F-9AC4-4149-A69A-C590AED0D338</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>85ABBE07-AB01-40CE-880F-4CED6CB58573</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -443,6 +640,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ABC2F804-0F8A-45C4-8D5A-BE0C16F0426A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>43F8D8B0-90B8-4A66-97FC-DAE2917F13F7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -490,6 +700,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>AE39C5CB-BAF2-4552-9E28-DEFA5585270A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>35FEAD4D-2223-4614-85C8-BB60BE24D977</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</key>
 		<array>
 			<dict>
@@ -503,11 +726,37 @@
 				<false/>
 			</dict>
 		</array>
+		<key>B407E700-5E44-422F-8CC3-DFA5A290B876</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>B55CB91E-ED57-4F1D-B513-45A67866323E</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B68BAF07-07FE-48B5-BBF9-603983D44ED3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -565,6 +814,29 @@
 				<false/>
 			</dict>
 		</array>
+		<key>C844923F-C74A-493B-9CC2-CA38A6DA005E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1DEA9046-1359-4038-87D2-6BE123C83885</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>CF607B20-6561-49DB-BCB7-CEA78C0BED89</key>
 		<array>
 			<dict>
@@ -583,6 +855,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D96B277-5FBB-4168-9F8F-1C3661601C97</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -619,6 +904,31 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ECA80E6F-9AC4-4149-A69A-C590AED0D338</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C844923F-C74A-493B-9CC2-CA38A6DA005E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>0EAA5836-0F11-46A6-A3C3-CFBC2EA58EA1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4B14B92D-BFF3-4505-B47D-8B1A7217AF4D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -824,6 +1134,8 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
 				<key>triggerid</key>
 				<string>getActiveTicket</string>
 			</dict>
@@ -837,6 +1149,8 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
 				<key>triggerid</key>
 				<string>updateCheck</string>
 			</dict>
@@ -1484,11 +1798,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>27</integer>
+				<integer>41</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>-</string>
+				<string>;</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1540,11 +1854,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>24</integer>
+				<integer>39</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>=</string>
+				<string>'</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -2059,11 +2373,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>41</integer>
+				<integer>16</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>;</string>
+				<string>Y</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -2157,25 +2471,6 @@ end tell</string>
 			<string>F45BCC44-3C37-48D0-8368-70233EA956CB</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2361,7 +2656,7 @@ end tell</string>
 				<key>removeextension</key>
 				<false/>
 				<key>text</key>
-				<string>Copied "{var:split1}"!</string>
+				<string>Copied "{query}"!</string>
 				<key>title</key>
 				<string>ZD Shortcuts – Get Requester Name</string>
 			</dict>
@@ -2491,6 +2786,10 @@ end tell</string>
 			<dict>
 				<key>delimiter</key>
 				<string>\r\n</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
 				<key>trimarguments</key>
 				<true/>
 				<key>variableprefix</key>
@@ -2535,6 +2834,524 @@ end tell</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>34</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>I</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>5FB9A8AA-F951-4BBB-BF0B-455896CF6027</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>43F8D8B0-90B8-4A66-97FC-DAE2917F13F7</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"Copy Team ID","arg":"{var:split1}","subtitle":"Press ENTER to copy \"{var:split1}\""},{"title":"Copy User ID","arg":"{var:split2}","subtitle":"Press ENTER to copy \"{var:split2}\""}]</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Type "user" or "team" to choose desired ID type and then press ENTER</string>
+				<key>title</key>
+				<string>Copy User/Team ID</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>ABC2F804-0F8A-45C4-8D5A-BE0C16F0426A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+
+	delay 0.1
+
+	tell active tab of window 1 to return execute javascript "
+
+		function getIds() {
+
+			// Get user and team fields from sidebar
+
+			let teamId = activeTicket.querySelector(`[data-test-id='ticket-form-field-text-field-23785647'] &gt; input`).value
+
+			let userId = activeTicket.querySelector(`[data-test-id='ticket-form-field-text-field-23785637'] &gt; input`).value
+
+			console.log(`Team ID: ${teamId}, User ID: ${userId}`)
+
+			return [teamId,userId]
+    		}
+		
+		getIds()
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AE39C5CB-BAF2-4552-9E28-DEFA5585270A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>,</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>35FEAD4D-2223-4614-85C8-BB60BE24D977</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>teamId</key>
+					<string>{var:split2}</string>
+					<key>userId</key>
+					<string>{var:split1}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>tell application "System Events"
+
+	display alert "Latest Log Opener – Alfred" message "Failed to open Sleuth." buttons {"Dismiss"} 
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C844923F-C74A-493B-9CC2-CA38A6DA005E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>latest_log="${logFolder}$(mdls -n kMDItemFSName -n kMDItemDateAdded -raw ${logFolder}*.{zip,txt} | xargs -0 -n2 | sort -rn | head -n1 | cut -d' ' -f4-)"
+
+echo -n $latest_log</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B68BAF07-07FE-48B5-BBF9-603983D44ED3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>37</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>L</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>8223B446-96EB-411C-92A0-965C7398A51D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+
+  	set theCount to 0
+
+	tell application "System Events"
+
+		repeat with i from 1 to 10
+    		
+			if exists (window 1 of process "Sleuth") then
+				exit repeat
+    			end if
+		
+			set theCount to theCount + 1
+
+			delay 1
+		
+		end repeat
+
+	end tell
+	
+	return theCount
+end alfred_script</string>
+				<key>cachescript</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>85ABBE07-AB01-40CE-880F-4CED6CB58573</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>open -a Sleuth</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>{var:timeoutValue}</string>
+						<key>outputlabel</key>
+						<string>Terminate Latest Log Opener</string>
+						<key>uid</key>
+						<string>0EAA5836-0F11-46A6-A3C3-CFBC2EA58EA1</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Continue Latest Log Opener</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>ECA80E6F-9AC4-4149-A69A-C590AED0D338</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>button1</key>
+				<string>Open file</string>
+				<key>button2</key>
+				<string>Cancel</string>
+				<key>button3</key>
+				<string></string>
+				<key>description</key>
+				<string>Open following file in Sleuth?
+
+{var:logFileName}</string>
+				<key>title</key>
+				<string>{var:latestLogWorkflowName}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.dialog</string>
+			<key>uid</key>
+			<string>5D96B277-5FBB-4168-9F8F-1C3661601C97</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>logFileName</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>latestLogPath</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>'{query}', {variables}</string>
+				<key>cleardebuggertext</key>
+				<false/>
+				<key>processoutputs</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.debug</string>
+			<key>uid</key>
+			<string>1DEA9046-1359-4038-87D2-6BE123C83885</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.transform</string>
+			<key>uid</key>
+			<string>A35090B9-033B-43BA-8A47-DFAA081E93C7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>{var:logPath}</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>B407E700-5E44-422F-8CC3-DFA5A290B876</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>latest_log_path="${latestLogPath}"
+
+echo "$latest_log_path"
+
+open $latest_log_path -a Sleuth</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4B14B92D-BFF3-4505-B47D-8B1A7217AF4D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Opening Sleuth...</string>
+				<key>title</key>
+				<string>{var:latestLogWorkflowName}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>55BF9A4C-B1F2-4D2E-B0A8-1916927AFB50</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Keyboard shortcuts for Zendesk. 
@@ -2546,16 +3363,18 @@ end tell</string>
     * Assign to Self and set to Pending
        
 * Misc ticket actions
-    * NEW! [PLAY MODE] Next ticket
+    * NEW! Open most recently downloaded log file in Sleuth
+    * NEW! Copy user/team ID from lefthand ticket sidebar
+    * [PLAY MODE] Next ticket
     * Toggle formatting menu
     * Close current ticket tab
     * Copy requester first name 
 
 * ZD view shortcuts
-    * NEW! Shortcuts for opening up to 5 views (see instructions below)
-    * NEW! Go to a specific view and show notification for total # of tickets updated “today”
-    * NEW! Open my profile
-    * NEW! [SEARCH RESULTS] Set search date filter to “Past Year”
+    * Shortcuts for opening up to 5 views (see instructions below)
+    * Go to a specific view and show notification for total # of tickets updated “today”
+    * Open my profile
+    * [SEARCH RESULTS] Set search date filter to “Past Year”
     * Refresh all views
 
 ===========================
@@ -2568,19 +3387,39 @@ HOW TO ADD VIEW SHORTCUTS
 
 2. Get the VIEW ID at the end of the URL 
 
-3. In the 'Variables' box to the left, double click any value field 
+3. In the "Variables" box to the left, double click any value field for the variable "viewX"
 
 4. Paste VIEW ID 
 
-5. Import</string>
+5. Import
+
+=================================
+
+HOW TO SET UP LATEST LOG OPENER
+
+=================================
+
+1. Open Finder
+
+2. In the menubar at the very top of your screen, click View &gt; Show Path Bar (or use Option + Command + P)
+
+3. Open the folder where your logs are normally downloaded to
+
+4. You'll see your log folder icon in the Path Bar at the bottom of the Finder window. Right-click that folder icon and click on 'Copy "FOLDER_NAME" as Pathname'
+
+5. In the "Variables" box to the left, double click the value field for the variable "logFolder"
+
+6. Paste the Pathname you previously copied
+
+7. Import</string>
 	<key>uidata</key>
 	<dict>
 		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1015</integer>
+			<real>1090</real>
 			<key>ypos</key>
-			<integer>2135</integer>
+			<real>2135</real>
 		</dict>
 		<key>030897E9-3480-450D-BC20-471C70F4A1D7</key>
 		<dict>
@@ -2589,9 +3428,9 @@ HOW TO ADD VIEW SHORTCUTS
 			<key>note</key>
 			<string>Assign to Self</string>
 			<key>xpos</key>
-			<integer>40</integer>
+			<real>40</real>
 			<key>ypos</key>
-			<integer>660</integer>
+			<real>660</real>
 		</dict>
 		<key>0C4742B1-6E30-467C-9C4D-E7F3D060DFC9</key>
 		<dict>
@@ -2600,18 +3439,27 @@ HOW TO ADD VIEW SHORTCUTS
 			<key>note</key>
 			<string>Self-assign and Submit as On Hold</string>
 			<key>xpos</key>
-			<integer>50</integer>
+			<real>50</real>
 			<key>ypos</key>
-			<integer>970</integer>
+			<real>970</real>
+		</dict>
+		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<real>825</real>
+			<key>ypos</key>
+			<real>2430</real>
 		</dict>
 		<key>13DA23F1-5580-43FD-A8F4-7F3610E4B169</key>
 		<dict>
 			<key>note</key>
 			<string>NOTE: you can always change your saved view shortcuts by clicking the [x] icon at the very top right of Alfred. This icon is in the toolbar that also contains the bug icon.</string>
 			<key>xpos</key>
-			<integer>1050</integer>
+			<real>1050</real>
 			<key>ypos</key>
-			<integer>35</integer>
+			<real>35</real>
 		</dict>
 		<key>1819F3AC-99D4-474C-8B2B-BA6E22782DAE</key>
 		<dict>
@@ -2620,16 +3468,16 @@ HOW TO ADD VIEW SHORTCUTS
 
 If a newer version exists, open download page.</string>
 			<key>xpos</key>
-			<integer>245</integer>
+			<real>245</real>
 			<key>ypos</key>
-			<integer>10</integer>
+			<real>15</real>
 		</dict>
 		<key>1885A086-EFD7-40EC-82DB-B47171931887</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1270</integer>
+			<real>1270</real>
 			<key>ypos</key>
-			<integer>420</integer>
+			<real>420</real>
 		</dict>
 		<key>188BE41D-01D9-43D0-A6C5-5536EF345EB3</key>
 		<dict>
@@ -2638,16 +3486,23 @@ If a newer version exists, open download page.</string>
 			<key>note</key>
 			<string>Self-assign and Submit as Pending</string>
 			<key>xpos</key>
-			<integer>50</integer>
+			<real>50</real>
 			<key>ypos</key>
-			<integer>1270</integer>
+			<real>1270</real>
+		</dict>
+		<key>1DEA9046-1359-4038-87D2-6BE123C83885</key>
+		<dict>
+			<key>xpos</key>
+			<real>1620</real>
+			<key>ypos</key>
+			<real>2705</real>
 		</dict>
 		<key>2274E87D-CA70-466E-B223-DD3394D52260</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1210</integer>
+			<real>1210</real>
 			<key>ypos</key>
-			<integer>450</integer>
+			<real>450</real>
 		</dict>
 		<key>287B6A54-57E0-45D3-90C7-D31FBA92E2B9</key>
 		<dict>
@@ -2656,16 +3511,16 @@ If a newer version exists, open download page.</string>
 			<key>note</key>
 			<string>View5</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>940</integer>
+			<real>940</real>
 		</dict>
 		<key>299B64B2-5308-4D77-9D3D-17FCB5975CB3</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1530</integer>
+			<real>1530</real>
 			<key>ypos</key>
-			<integer>475</integer>
+			<real>475</real>
 		</dict>
 		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
 		<dict>
@@ -2674,62 +3529,71 @@ If a newer version exists, open download page.</string>
 			<key>note</key>
 			<string>View3</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>630</integer>
+			<real>630</real>
 		</dict>
 		<key>2B1AE771-06E9-4D8C-AA47-9C872671B669</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<real>850</real>
 			<key>ypos</key>
-			<integer>660</integer>
+			<real>660</real>
 		</dict>
 		<key>2C5D260F-AF7B-4838-8E95-B7311140529F</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Ticket Assignment Actions</string>
 			<key>xpos</key>
-			<integer>180</integer>
+			<real>180</real>
 			<key>ypos</key>
-			<integer>250</integer>
+			<real>250</real>
 		</dict>
 		<key>2D17B94B-36CC-4E2C-AB71-6520DA2E09D3</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<real>850</real>
 			<key>ypos</key>
-			<integer>340</integer>
+			<real>340</real>
 		</dict>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>585</integer>
+			<real>660</real>
 			<key>ypos</key>
-			<integer>1990</integer>
+			<real>1990</real>
+		</dict>
+		<key>35FEAD4D-2223-4614-85C8-BB60BE24D977</key>
+		<dict>
+			<key>note</key>
+			<string>Split requester name value from previous step to create an array with shape [requesterName, CRLF]</string>
+			<key>xpos</key>
+			<real>705</real>
+			<key>ypos</key>
+			<real>2430</real>
 		</dict>
 		<key>36972B8F-862A-485B-8B64-EFEC7E4E5318</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1245</integer>
+			<real>1625</real>
 			<key>ypos</key>
-			<integer>1790</integer>
+			<real>2295</real>
 		</dict>
 		<key>3760B27B-03AF-49DE-B306-A6AE74A2D702</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Ticket Submission Actions</string>
 			<key>xpos</key>
-			<integer>215</integer>
+			<real>215</real>
 			<key>ypos</key>
-			<integer>855</integer>
+			<real>855</real>
 		</dict>
 		<key>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>235</integer>
+			<real>235</real>
 			<key>ypos</key>
-			<integer>660</integer>
+			<real>660</real>
 		</dict>
 		<key>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</key>
 		<dict>
@@ -2743,9 +3607,9 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 1. Double click a hotkey block
 2. Press your desired hotkey combination</string>
 			<key>xpos</key>
-			<integer>35</integer>
+			<real>45</real>
 			<key>ypos</key>
-			<integer>10</integer>
+			<real>15</real>
 		</dict>
 		<key>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</key>
 		<dict>
@@ -2754,46 +3618,62 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<key>note</key>
 			<string>Assign to Support</string>
 			<key>xpos</key>
-			<integer>40</integer>
+			<real>40</real>
 			<key>ypos</key>
-			<integer>385</integer>
+			<real>385</real>
 		</dict>
 		<key>436E7BD8-90A5-4236-81FC-0CC72B3B7EBD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>520</integer>
+			<real>520</real>
 			<key>ypos</key>
-			<integer>10</integer>
+			<real>15</real>
+		</dict>
+		<key>43F8D8B0-90B8-4A66-97FC-DAE2917F13F7</key>
+		<dict>
+			<key>xpos</key>
+			<real>1090</real>
+			<key>ypos</key>
+			<real>2400</real>
 		</dict>
 		<key>46D27371-797D-45CE-813A-3122F68F3B02</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1065</integer>
+			<real>1065</real>
 			<key>ypos</key>
-			<integer>1250</integer>
+			<real>1250</real>
+		</dict>
+		<key>4B14B92D-BFF3-4505-B47D-8B1A7217AF4D</key>
+		<dict>
+			<key>note</key>
+			<string>Open log in Sleuth and dismiss loading dialog.</string>
+			<key>xpos</key>
+			<real>1450</real>
+			<key>ypos</key>
+			<real>2750</real>
 		</dict>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<real>270</real>
 			<key>ypos</key>
-			<integer>970</integer>
+			<real>970</real>
 		</dict>
 		<key>4F6E00DF-289E-42F6-8930-9A7F56FBAC3B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1450</integer>
+			<real>1450</real>
 			<key>ypos</key>
-			<integer>450</integer>
+			<real>450</real>
 		</dict>
 		<key>513AEE66-1026-4F54-A7DF-C4008ABF4852</key>
 		<dict>
 			<key>note</key>
 			<string>[PLAY MODE] Next ticket</string>
 			<key>xpos</key>
-			<integer>295</integer>
+			<real>295</real>
 			<key>ypos</key>
-			<integer>1685</integer>
+			<real>1685</real>
 		</dict>
 		<key>528A126B-FC9A-4E1F-85C5-567A297A5C46</key>
 		<dict>
@@ -2802,30 +3682,66 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 
 DO NOT DELETE</string>
 			<key>xpos</key>
-			<integer>390</integer>
+			<real>390</real>
 			<key>ypos</key>
-			<integer>10</integer>
+			<real>15</real>
+		</dict>
+		<key>55BF9A4C-B1F2-4D2E-B0A8-1916927AFB50</key>
+		<dict>
+			<key>note</key>
+			<string>Show Sleuth launch attempt notification</string>
+			<key>xpos</key>
+			<real>790</real>
+			<key>ypos</key>
+			<real>2910</real>
+		</dict>
+		<key>5D96B277-5FBB-4168-9F8F-1C3661601C97</key>
+		<dict>
+			<key>note</key>
+			<string>Show confirmation dialog before opening log</string>
+			<key>xpos</key>
+			<real>677</real>
+			<key>ypos</key>
+			<real>2705</real>
+		</dict>
+		<key>5FB9A8AA-F951-4BBB-BF0B-455896CF6027</key>
+		<dict>
+			<key>note</key>
+			<string>Copy User or Team ID from left sidebar</string>
+			<key>xpos</key>
+			<real>295</real>
+			<key>ypos</key>
+			<real>2400</real>
 		</dict>
 		<key>6667F494-CB39-420F-82F3-A57AD8751EA9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<real>270</real>
 			<key>ypos</key>
-			<integer>1120</integer>
+			<real>1120</real>
+		</dict>
+		<key>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</key>
+		<dict>
+			<key>note</key>
+			<string>Save log path as variable</string>
+			<key>xpos</key>
+			<real>385</real>
+			<key>ypos</key>
+			<real>2705</real>
 		</dict>
 		<key>6BA19E7C-4836-4418-9054-CA94B81D869F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>235</integer>
+			<real>235</real>
 			<key>ypos</key>
-			<integer>520</integer>
+			<real>520</real>
 		</dict>
 		<key>71DF99AC-74FA-4FD4-9602-38DE9098E951</key>
 		<dict>
 			<key>xpos</key>
-			<integer>585</integer>
+			<real>660</real>
 			<key>ypos</key>
-			<integer>1845</integer>
+			<real>1845</real>
 		</dict>
 		<key>7B4EC342-D1CB-493F-89FB-7A303FACC61C</key>
 		<dict>
@@ -2834,34 +3750,54 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>Go to a view and get count of all tickets in view that were updated today</string>
 			<key>xpos</key>
-			<integer>1065</integer>
+			<real>1065</real>
 			<key>ypos</key>
-			<integer>420</integer>
+			<real>420</real>
 		</dict>
 		<key>81C7E2E7-DFDF-453F-8132-0D629B5F741B</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: Misc Ticket Actions</string>
 			<key>xpos</key>
-			<integer>830</integer>
+			<real>830</real>
 			<key>ypos</key>
-			<integer>1580</integer>
+			<real>1580</real>
+		</dict>
+		<key>8223B446-96EB-411C-92A0-965C7398A51D</key>
+		<dict>
+			<key>note</key>
+			<string>From configured folder, open latest log file in Sleuth</string>
+			<key>xpos</key>
+			<real>50</real>
+			<key>ypos</key>
+			<real>2675</real>
 		</dict>
 		<key>83D3D51F-E62E-4278-8568-A0550D402420</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1530</integer>
+			<real>1530</real>
 			<key>ypos</key>
-			<integer>350</integer>
+			<real>350</real>
+		</dict>
+		<key>85ABBE07-AB01-40CE-880F-4CED6CB58573</key>
+		<dict>
+			<key>note</key>
+			<string>Only proceed if the Sleuth window completes loading.
+
+Gives up after 10 seconds. Outputs seconds passed.</string>
+			<key>xpos</key>
+			<real>950</real>
+			<key>ypos</key>
+			<real>2675</real>
 		</dict>
 		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
 		<dict>
 			<key>note</key>
 			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
 			<key>xpos</key>
-			<integer>585</integer>
+			<real>660</real>
 			<key>ypos</key>
-			<integer>2135</integer>
+			<real>2135</real>
 		</dict>
 		<key>8930D7F6-18B8-4CFE-A63C-C8936891C60F</key>
 		<dict>
@@ -2870,30 +3806,30 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>Refresh Views</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>1095</integer>
+			<real>1095</real>
 		</dict>
 		<key>89E68E52-EC2A-45B8-811B-02C53559D6C7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1245</integer>
+			<real>1320</real>
 			<key>ypos</key>
-			<integer>2210</integer>
+			<real>2210</real>
 		</dict>
 		<key>8B74D6C9-34BD-4034-A9AC-96780EAC8049</key>
 		<dict>
 			<key>xpos</key>
-			<integer>85</integer>
+			<real>85</real>
 			<key>ypos</key>
-			<integer>1930</integer>
+			<real>1930</real>
 		</dict>
 		<key>8EB20A99-DC29-45EB-99E2-398D5BE337E8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>460</integer>
+			<real>460</real>
 			<key>ypos</key>
-			<integer>1135</integer>
+			<real>1135</real>
 		</dict>
 		<key>94EC7635-33CB-4B70-B5D0-175FD513129C</key>
 		<dict>
@@ -2902,18 +3838,27 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>Open profile</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>1250</integer>
+			<real>1250</real>
 		</dict>
 		<key>9522E6B9-0EA5-4E59-854B-7386BA66F290</key>
 		<dict>
 			<key>note</key>
 			<string>Toggle Formatting Menu</string>
 			<key>xpos</key>
-			<integer>295</integer>
+			<real>295</real>
 			<key>ypos</key>
-			<integer>1845</integer>
+			<real>1845</real>
+		</dict>
+		<key>A35090B9-033B-43BA-8A47-DFAA081E93C7</key>
+		<dict>
+			<key>note</key>
+			<string>Trim trailing newline from output.</string>
+			<key>xpos</key>
+			<real>1135</real>
+			<key>ypos</key>
+			<real>2705</real>
 		</dict>
 		<key>A47FAFE6-093C-48BC-81F7-9AAED1AD0DB5</key>
 		<dict>
@@ -2922,39 +3867,57 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>View1</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>310</integer>
+			<real>310</real>
 		</dict>
 		<key>A5C7B48D-BC7A-472B-9991-0BD52B523021</key>
 		<dict>
 			<key>note</key>
 			<string>NOTE: These "Visit My X Tickets" flows work on any ZD page. You don't have to already be on a "view" page of ZD. For example, you could currently have a ticket open and still use these flows to visit a ZD view.</string>
 			<key>xpos</key>
-			<integer>940</integer>
+			<real>940</real>
 			<key>ypos</key>
-			<integer>35</integer>
+			<real>35</real>
+		</dict>
+		<key>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</key>
+		<dict>
+			<key>note</key>
+			<string>Open Sleuth.
+
+We need to open Sleuth without an argument first because the app needs to load in before it can even accept a log file.</string>
+			<key>xpos</key>
+			<real>790</real>
+			<key>ypos</key>
+			<real>2675</real>
 		</dict>
 		<key>A7A6C35B-FA6B-4D30-A5E1-972E77142C64</key>
 		<dict>
 			<key>xpos</key>
-			<integer>425</integer>
+			<real>425</real>
 			<key>ypos</key>
-			<integer>520</integer>
+			<real>520</real>
 		</dict>
 		<key>A8946038-4AEF-427F-8102-6C06DEE68CB7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1065</integer>
+			<real>1065</real>
 			<key>ypos</key>
-			<integer>630</integer>
+			<real>630</real>
 		</dict>
 		<key>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<real>850</real>
 			<key>ypos</key>
-			<integer>500</integer>
+			<real>500</real>
+		</dict>
+		<key>ABC2F804-0F8A-45C4-8D5A-BE0C16F0426A</key>
+		<dict>
+			<key>xpos</key>
+			<real>920</real>
+			<key>ypos</key>
+			<real>2400</real>
 		</dict>
 		<key>AC36C6B2-8706-4450-8AB2-EAAB1FEEFF14</key>
 		<dict>
@@ -2963,57 +3926,82 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>Set Search Filter to "Past Year"</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>1405</integer>
+			<real>1405</real>
 		</dict>
 		<key>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1065</integer>
+			<real>1065</real>
 			<key>ypos</key>
-			<integer>1095</integer>
+			<real>1095</real>
 		</dict>
 		<key>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</key>
 		<dict>
 			<key>note</key>
 			<string>Only pass requesterName from previous split</string>
 			<key>xpos</key>
-			<integer>895</integer>
+			<real>970</real>
 			<key>ypos</key>
-			<integer>2165</integer>
+			<real>2165</real>
+		</dict>
+		<key>AE39C5CB-BAF2-4552-9E28-DEFA5585270A</key>
+		<dict>
+			<key>note</key>
+			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
+			<key>xpos</key>
+			<real>525</real>
+			<key>ypos</key>
+			<real>2400</real>
 		</dict>
 		<key>AED3CF64-85AB-423F-87C6-311D6424CB3E</key>
 		<dict>
 			<key>note</key>
 			<string>SECTION: ZD View Actions</string>
 			<key>xpos</key>
-			<integer>830</integer>
+			<real>830</real>
 			<key>ypos</key>
-			<integer>130</integer>
+			<real>130</real>
 		</dict>
 		<key>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</key>
 		<dict>
 			<key>note</key>
 			<string>Split requester name value from previous step to create an array with shape [requesterName, CRLF]</string>
 			<key>xpos</key>
-			<integer>770</integer>
+			<real>845</real>
 			<key>ypos</key>
-			<integer>2165</integer>
+			<real>2165</real>
+		</dict>
+		<key>B407E700-5E44-422F-8CC3-DFA5A290B876</key>
+		<dict>
+			<key>xpos</key>
+			<real>475</real>
+			<key>ypos</key>
+			<real>2705</real>
 		</dict>
 		<key>B55CB91E-ED57-4F1D-B513-45A67866323E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<real>270</real>
 			<key>ypos</key>
-			<integer>1270</integer>
+			<real>1270</real>
+		</dict>
+		<key>B68BAF07-07FE-48B5-BBF9-603983D44ED3</key>
+		<dict>
+			<key>note</key>
+			<string>Get latest log path</string>
+			<key>xpos</key>
+			<real>205</real>
+			<key>ypos</key>
+			<real>2675</real>
 		</dict>
 		<key>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1270</integer>
+			<real>1270</real>
 			<key>ypos</key>
-			<integer>630</integer>
+			<real>630</real>
 		</dict>
 		<key>BB4457D7-EAAE-46CF-91D5-426299BDA2B4</key>
 		<dict>
@@ -3022,78 +4010,103 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>View4</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>785</integer>
+			<real>785</real>
 		</dict>
 		<key>C2B51421-1FC1-441B-B9DD-F8FA7F6ABC2B</key>
 		<dict>
 			<key>xpos</key>
-			<integer>235</integer>
+			<real>235</real>
 			<key>ypos</key>
-			<integer>385</integer>
+			<real>385</real>
 		</dict>
 		<key>C633BBDD-1B8B-4409-9816-24A9663AD786</key>
 		<dict>
 			<key>note</key>
 			<string>Copy Requester First Name (uses Requester dropdown menu)</string>
 			<key>xpos</key>
-			<integer>295</integer>
+			<real>295</real>
 			<key>ypos</key>
-			<integer>2135</integer>
+			<real>2135</real>
+		</dict>
+		<key>C844923F-C74A-493B-9CC2-CA38A6DA005E</key>
+		<dict>
+			<key>note</key>
+			<string>Show failure alert.</string>
+			<key>xpos</key>
+			<real>1450</real>
+			<key>ypos</key>
+			<real>2590</real>
 		</dict>
 		<key>CF607B20-6561-49DB-BCB7-CEA78C0BED89</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<real>850</real>
 			<key>ypos</key>
-			<integer>815</integer>
+			<real>815</real>
 		</dict>
 		<key>D0FC2301-5E11-4932-9FD7-819DC89A889A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1065</integer>
+			<real>1065</real>
 			<key>ypos</key>
-			<integer>1405</integer>
+			<real>1405</real>
+		</dict>
+		<key>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</key>
+		<dict>
+			<key>note</key>
+			<string>Save log file name as variable</string>
+			<key>xpos</key>
+			<real>560</real>
+			<key>ypos</key>
+			<real>2705</real>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
 			<key>note</key>
 			<string>NOTE: DO NOT DELETE THESE UPDATE BLOCKS</string>
 			<key>xpos</key>
-			<integer>110</integer>
+			<real>110</real>
 			<key>ypos</key>
-			<integer>10</integer>
+			<real>15</real>
 		</dict>
 		<key>D79F31A4-F3F6-41ED-A3D3-CBFCBEB6CF22</key>
 		<dict>
 			<key>note</key>
 			<string>Close Current Ticket Tab</string>
 			<key>xpos</key>
-			<integer>295</integer>
+			<real>295</real>
 			<key>ypos</key>
-			<integer>1990</integer>
+			<real>1990</real>
 		</dict>
 		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1245</integer>
+			<real>1320</real>
 			<key>ypos</key>
-			<integer>2030</integer>
+			<real>2030</real>
+		</dict>
+		<key>ECA80E6F-9AC4-4149-A69A-C590AED0D338</key>
+		<dict>
+			<key>xpos</key>
+			<real>1235</real>
+			<key>ypos</key>
+			<real>2695</real>
 		</dict>
 		<key>EE654E25-D599-4310-B085-9400A9363C06</key>
 		<dict>
 			<key>xpos</key>
-			<integer>850</integer>
+			<real>850</real>
 			<key>ypos</key>
-			<integer>970</integer>
+			<real>970</real>
 		</dict>
 		<key>F45BCC44-3C37-48D0-8368-70233EA956CB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>585</integer>
+			<real>660</real>
 			<key>ypos</key>
-			<integer>1685</integer>
+			<real>1685</real>
 		</dict>
 		<key>FA3EBB04-07A7-4361-BD4B-7EFD61C79FCD</key>
 		<dict>
@@ -3102,15 +4115,23 @@ DO NOT DELETE</string>
 			<key>note</key>
 			<string>View2</string>
 			<key>xpos</key>
-			<integer>640</integer>
+			<real>640</real>
 			<key>ypos</key>
-			<integer>470</integer>
+			<real>470</real>
 		</dict>
 	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
 	<key>variables</key>
 	<dict>
+		<key>latestLogWorkflowName</key>
+		<string>Latest Log Opener (Alfred)</string>
+		<key>logFolder</key>
+		<string></string>
 		<key>ticketCountView</key>
 		<string></string>
+		<key>timeoutValue</key>
+		<string>10</string>
 		<key>view1</key>
 		<string></string>
 		<key>view2</key>
@@ -3124,15 +4145,16 @@ DO NOT DELETE</string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
-		<string>view2</string>
-		<string>view5</string>
 		<string>view1</string>
+		<string>view3</string>
+		<string>view5</string>
+		<string>logFolder</string>
+		<string>view2</string>
 		<string>ticketCountView</string>
 		<string>view4</string>
-		<string>view3</string>
 	</array>
 	<key>version</key>
-	<string>2.0.0</string>
+	<string>2.2.0</string>
 	<key>webaddress</key>
 	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
