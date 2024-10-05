@@ -3502,7 +3502,22 @@ open $latest_log_path -a Sleuth</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Keyboard shortcuts for Zendesk. 
+	<string>==============================
+
+v2.2.1 Update - Oct 5, 2024
+
+==============================
+
+Update HTML class targeting for opening ZD views.
+
+
+===============
+
+ABOUT
+
+===============
+
+Keyboard shortcuts for Zendesk. 
 
 * Ticket assignment actions
     * Assign to Support
