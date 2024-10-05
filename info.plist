@@ -10,7 +10,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
+				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -20,7 +20,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -85,6 +85,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1E68A238-8B0C-4712-9185-37E785AFE165</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
 		<array>
 			<dict>
@@ -138,6 +151,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1E68A238-8B0C-4712-9185-37E785AFE165</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8F447C0D-165B-45B8-9A7B-13432BD85A2D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -215,7 +241,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<string>4D47BBDC-2C8B-468B-86D5-FF0FA3B187E8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -279,7 +305,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
+				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -289,7 +315,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>89E68E52-EC2A-45B8-811B-02C53559D6C7</string>
+				<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -473,7 +499,20 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<string>4D47BBDC-2C8B-468B-86D5-FF0FA3B187E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7495DBA9-0084-4747-B4DF-8C97EFD601E4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -539,6 +578,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>AC74B3A9-2EF8-45EF-BAC6-7C7B2AC734DD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8F447C0D-165B-45B8-9A7B-13432BD85A2D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -691,7 +743,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
+				<string>7495DBA9-0084-4747-B4DF-8C97EFD601E4</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -954,7 +1006,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+				<string>4D47BBDC-2C8B-468B-86D5-FF0FA3B187E8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -987,6 +1039,44 @@
 	<string>ZD Shortcuts</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
+				<key>triggerid</key>
+				<string>updateCheck</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
+				<key>triggerid</key>
+				<string>getActiveTicket</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>528A126B-FC9A-4E1F-85C5-567A297A5C46</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -1132,44 +1222,6 @@ fi</string>
 			<integer>2</integer>
 		</dict>
 		<dict>
-			<key>config</key>
-			<dict>
-				<key>availableviaurlhandler</key>
-				<false/>
-				<key>triggerid</key>
-				<string>getActiveTicket</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
-			<key>uid</key>
-			<string>528A126B-FC9A-4E1F-85C5-567A297A5C46</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>availableviaurlhandler</key>
-				<false/>
-				<key>triggerid</key>
-				<string>updateCheck</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
-			<key>uid</key>
-			<string>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>3923416F-C1B8-46ED-8C88-BA0AB2788CD3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
@@ -1273,6 +1325,37 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>33</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>[</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1333,11 +1416,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>33</integer>
+				<integer>44</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>[</string>
+				<string>/</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1348,7 +1431,7 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>3A4D9FC6-F3C2-4402-A20D-C6BEF3047B3B</string>
+			<string>7B4EC342-D1CB-493F-89FB-7A303FACC61C</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1379,9 +1462,10 @@ end tell</string>
 		document.querySelector(`[data-test-id='views_icon']`).click();
 
 		// Click views refresh button
-		document.querySelector(`[data-view-id='${ {query} }']`).click();
+		document.querySelector(`[data-test-id='views_views-tree_item-view-${ {query} }']`).click();
 		
 	"
+
 	delay 1
 
 -- Get ticket rows with TODAY's date
@@ -1436,33 +1520,19 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
 				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
 				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>44</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>/</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
+				<key>variables</key>
+				<dict/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
+			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>7B4EC342-D1CB-493F-89FB-7A303FACC61C</string>
+			<string>4F6E00DF-289E-42F6-8930-9A7F56FBAC3B</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1478,23 +1548,6 @@ end tell</string>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>2274E87D-CA70-466E-B223-DD3394D52260</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>4F6E00DF-289E-42F6-8930-9A7F56FBAC3B</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1602,6 +1655,37 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>24</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>=</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>2A61E696-A907-49BE-8690-6C500404D9E2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>externaltriggerid</key>
 				<string>updateCheck</string>
 				<key>passinputasargument</key>
@@ -1617,37 +1701,6 @@ end tell</string>
 			<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>0</integer>
-				<key>hotmod</key>
-				<integer>0</integer>
-				<key>hotstring</key>
-				<string></string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>2A61E696-A907-49BE-8690-6C500404D9E2</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1676,7 +1729,7 @@ end tell</string>
 		document.querySelector(`[data-test-id='views_icon']`).click();
 
 		// Click views refresh button
-		document.querySelector(`[data-view-id='${ {query} }']`).click();
+		document.querySelector(`[data-test-id='views_views-tree_item-view-${ {query} }']`).click();
 		
 	"
 
@@ -1694,54 +1747,6 @@ end tell</string>
 			<string>A8946038-4AEF-427F-8102-6C06DEE68CB7</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>30</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>]</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{var:view3}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1783,6 +1788,54 @@ end tell</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>38DD1411-273A-4BA2-99CF-C0FE655B9E9B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:view3}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2B1AE771-06E9-4D8C-AA47-9C872671B669</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>30</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>]</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>030897E9-3480-450D-BC20-471C70F4A1D7</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1932,6 +1985,23 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argument</key>
+				<string>{var:view5}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>EE654E25-D599-4310-B085-9400A9363C06</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>action</key>
 				<integer>0</integer>
 				<key>argument</key>
@@ -1963,19 +2033,33 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
 				<key>argument</key>
-				<string>{var:view5}</string>
-				<key>passthroughargument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
 				<false/>
-				<key>variables</key>
-				<dict/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>15</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>R</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>EE654E25-D599-4310-B085-9400A9363C06</string>
+			<string>8930D7F6-18B8-4CFE-A63C-C8936891C60F</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2025,37 +2109,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>15</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>R</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>8930D7F6-18B8-4CFE-A63C-C8936891C60F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>externaltriggerid</key>
 				<string>getActiveTicket</string>
 				<key>passinputasargument</key>
@@ -2090,37 +2143,6 @@ end tell</string>
 			<string>8EB20A99-DC29-45EB-99E2-398D5BE337E8</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>42</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>\</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>94EC7635-33CB-4B70-B5D0-175FD513129C</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2178,6 +2200,68 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>42</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>\</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>94EC7635-33CB-4B70-B5D0-175FD513129C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>35</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>P</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -2228,37 +2312,6 @@ end tell</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>B55CB91E-ED57-4F1D-B513-45A67866323E</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>35</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>P</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>188BE41D-01D9-43D0-A6C5-5536EF345EB3</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -2403,37 +2456,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>45</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>N</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>513AEE66-1026-4F54-A7DF-C4008ABF4852</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -2484,11 +2506,11 @@ end tell</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>46</integer>
+				<integer>45</integer>
 				<key>hotmod</key>
 				<integer>786432</integer>
 				<key>hotstring</key>
-				<string>M</string>
+				<string>N</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -2499,9 +2521,28 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>9522E6B9-0EA5-4E59-854B-7386BA66F290</string>
+			<string>513AEE66-1026-4F54-A7DF-C4008ABF4852</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>4D47BBDC-2C8B-468B-86D5-FF0FA3B187E8</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -2546,6 +2587,37 @@ end tell</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>71DF99AC-74FA-4FD4-9602-38DE9098E951</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>46</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>M</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>9522E6B9-0EA5-4E59-854B-7386BA66F290</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -2649,77 +2721,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>Copied "{query}"!</string>
-				<key>title</key>
-				<string>ZD Shortcuts – Get Requester Name</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{var:split1}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>5</integer>
-				<key>hotmod</key>
-				<integer>786432</integer>
-				<key>hotstring</key>
-				<string>G</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -2784,21 +2785,67 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>delimiter</key>
-				<string>\r\n</string>
-				<key>discardemptyarguments</key>
-				<false/>
-				<key>outputas</key>
+				<key>action</key>
 				<integer>0</integer>
-				<key>trimarguments</key>
-				<true/>
-				<key>variableprefix</key>
-				<string>split</string>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>5</integer>
+				<key>hotmod</key>
+				<integer>786432</integer>
+				<key>hotstring</key>
+				<string>G</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.split</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</string>
+			<string>C633BBDD-1B8B-4409-9816-24A9663AD786</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:split1}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:periodSplit1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -2815,7 +2862,87 @@ end tell</string>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
+			<string>8F447C0D-165B-45B8-9A7B-13432BD85A2D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>.</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>periodSplit</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>7495DBA9-0084-4747-B4DF-8C97EFD601E4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>\r\n</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>newLineSplit</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>B3C1C236-2A84-4DD1-A038-C44D9FE4F2C9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:newLineSplit1}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
 			<string>ACE6D0D1-5612-4A00-8E80-7CEBA396575B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>@</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>1E68A238-8B0C-4712-9185-37E785AFE165</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -2837,19 +2964,95 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>externaltriggerid</key>
-				<string>updateCheck</string>
-				<key>passinputasargument</key>
-				<true/>
-				<key>passvariables</key>
-				<true/>
-				<key>workflowbundleid</key>
-				<string>self</string>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copied "{query}"!</string>
+				<key>title</key>
+				<string>ZD Shortcuts – Get Requester Name</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
+			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+			<string>E10217D1-ED65-4154-857A-2EB4EAF84A76</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+
+	delay 0.1
+
+	tell active tab of window 1 to return execute javascript "
+
+		function getIds() {
+
+			// Get user and team fields from sidebar
+
+			let teamId = activeTicket.querySelector(`[data-test-id='ticket-form-field-text-field-23785647'] &gt; input`).value
+
+			let userId = activeTicket.querySelector(`[data-test-id='ticket-form-field-text-field-23785637'] &gt; input`).value
+
+			console.log(`Team ID: ${teamId}, User ID: ${userId}`)
+
+			return [teamId,userId]
+    		}
+		
+		getIds()
+	"
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AE39C5CB-BAF2-4552-9E28-DEFA5585270A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"Copy Team ID","arg":"{var:split1}","subtitle":"Press ENTER to copy \"{var:split1}\""},{"title":"Copy User ID","arg":"{var:split2}","subtitle":"Press ENTER to copy \"{var:split2}\""}]</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Type "user" or "team" to choose desired ID type and then press ENTER</string>
+				<key>title</key>
+				<string>Copy User/Team ID</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>ABC2F804-0F8A-45C4-8D5A-BE0C16F0426A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -2906,80 +3109,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>fixedorder</key>
-				<false/>
-				<key>items</key>
-				<string>[{"title":"Copy Team ID","arg":"{var:split1}","subtitle":"Press ENTER to copy \"{var:split1}\""},{"title":"Copy User ID","arg":"{var:split2}","subtitle":"Press ENTER to copy \"{var:split2}\""}]</string>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>runningsubtext</key>
-				<string></string>
-				<key>subtext</key>
-				<string>Type "user" or "team" to choose desired ID type and then press ENTER</string>
-				<key>title</key>
-				<string>Copy User/Team ID</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.listfilter</string>
-			<key>uid</key>
-			<string>ABC2F804-0F8A-45C4-8D5A-BE0C16F0426A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-
-	delay 0.1
-
-	tell active tab of window 1 to return execute javascript "
-
-		function getIds() {
-
-			// Get user and team fields from sidebar
-
-			let teamId = activeTicket.querySelector(`[data-test-id='ticket-form-field-text-field-23785647'] &gt; input`).value
-
-			let userId = activeTicket.querySelector(`[data-test-id='ticket-form-field-text-field-23785637'] &gt; input`).value
-
-			console.log(`Team ID: ${teamId}, User ID: ${userId}`)
-
-			return [teamId,userId]
-    		}
-		
-		getIds()
-	"
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>AE39C5CB-BAF2-4552-9E28-DEFA5585270A</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>delimiter</key>
 				<string>,</string>
 				<key>discardemptyarguments</key>
@@ -3023,6 +3152,25 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>externaltriggerid</key>
+				<string>updateCheck</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>36972B8F-862A-485B-8B64-EFEC7E4E5318</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -3044,31 +3192,6 @@ end tell</string>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>C844923F-C74A-493B-9CC2-CA38A6DA005E</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>latest_log="${logFolder}$(mdls -n kMDItemFSName -n kMDItemDateAdded -raw ${logFolder}*.{zip,txt} | xargs -0 -n2 | sort -rn | head -n1 | cut -d' ' -f4-)"
-
-echo -n $latest_log</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>5</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>B68BAF07-07FE-48B5-BBF9-603983D44ED3</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -3147,6 +3270,31 @@ end alfred_script</string>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
+				<string>latest_log="${logFolder}$(mdls -n kMDItemFSName -n kMDItemDateAdded -raw ${logFolder}*.{zip,txt} | xargs -0 -n2 | sort -rn | head -n1 | cut -d' ' -f4-)"
+
+echo -n $latest_log</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B68BAF07-07FE-48B5-BBF9-603983D44ED3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
 				<string>open -a Sleuth</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
@@ -3161,6 +3309,23 @@ end alfred_script</string>
 			<string>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>'{query}', {variables}</string>
+				<key>cleardebuggertext</key>
+				<false/>
+				<key>processoutputs</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.debug</string>
+			<key>uid</key>
+			<string>1DEA9046-1359-4038-87D2-6BE123C83885</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -3193,6 +3358,56 @@ end alfred_script</string>
 			<string>ECA80E6F-9AC4-4149-A69A-C590AED0D338</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.transform</string>
+			<key>uid</key>
+			<string>A35090B9-033B-43BA-8A47-DFAA081E93C7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>latestLogPath</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>{var:logPath}</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>B407E700-5E44-422F-8CC3-DFA5A290B876</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -3236,73 +3451,6 @@ end alfred_script</string>
 			<string>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict>
-					<key>latestLogPath</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>'{query}', {variables}</string>
-				<key>cleardebuggertext</key>
-				<false/>
-				<key>processoutputs</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.debug</string>
-			<key>uid</key>
-			<string>1DEA9046-1359-4038-87D2-6BE123C83885</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.transform</string>
-			<key>uid</key>
-			<string>A35090B9-033B-43BA-8A47-DFAA081E93C7</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>{var:logPath}</string>
-				<key>replacestring</key>
-				<string></string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.replace</string>
-			<key>uid</key>
-			<string>B407E700-5E44-422F-8CC3-DFA5A290B876</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -3421,7 +3569,7 @@ HOW TO SET UP LATEST LOG OPENER
 		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
 		<dict>
 			<key>xpos</key>
-			<real>1090</real>
+			<real>1350</real>
 			<key>ypos</key>
 			<real>2135</real>
 		</dict>
@@ -3446,6 +3594,15 @@ HOW TO SET UP LATEST LOG OPENER
 			<real>50</real>
 			<key>ypos</key>
 			<real>970</real>
+		</dict>
+		<key>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<real>1020</real>
+			<key>ypos</key>
+			<real>2165</real>
 		</dict>
 		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
 		<dict>
@@ -3497,9 +3654,18 @@ If a newer version exists, open download page.</string>
 		<key>1DEA9046-1359-4038-87D2-6BE123C83885</key>
 		<dict>
 			<key>xpos</key>
-			<real>1620</real>
+			<real>1705</real>
 			<key>ypos</key>
-			<real>2705</real>
+			<real>2695</real>
+		</dict>
+		<key>1E68A238-8B0C-4712-9185-37E785AFE165</key>
+		<dict>
+			<key>note</key>
+			<string>Split with @ character as delimiter</string>
+			<key>xpos</key>
+			<real>1140</real>
+			<key>ypos</key>
+			<real>2165</real>
 		</dict>
 		<key>2274E87D-CA70-466E-B223-DD3394D52260</key>
 		<dict>
@@ -3579,9 +3745,9 @@ If a newer version exists, open download page.</string>
 		<key>36972B8F-862A-485B-8B64-EFEC7E4E5318</key>
 		<dict>
 			<key>xpos</key>
-			<real>1625</real>
+			<real>1670</real>
 			<key>ypos</key>
-			<real>2295</real>
+			<real>2440</real>
 		</dict>
 		<key>3760B27B-03AF-49DE-B306-A6AE74A2D702</key>
 		<dict>
@@ -3655,6 +3821,13 @@ You'll have to enter your own hotkeys/shortcuts for all of the flows below. To d
 			<real>1450</real>
 			<key>ypos</key>
 			<real>2750</real>
+		</dict>
+		<key>4D47BBDC-2C8B-468B-86D5-FF0FA3B187E8</key>
+		<dict>
+			<key>xpos</key>
+			<real>945</real>
+			<key>ypos</key>
+			<real>1845</real>
 		</dict>
 		<key>4F17AA8A-7BCC-4237-877B-CBB460D2176C</key>
 		<dict>
@@ -3747,6 +3920,15 @@ DO NOT DELETE</string>
 			<key>ypos</key>
 			<real>1845</real>
 		</dict>
+		<key>7495DBA9-0084-4747-B4DF-8C97EFD601E4</key>
+		<dict>
+			<key>note</key>
+			<string>Split with period character as delimiter</string>
+			<key>xpos</key>
+			<real>900</real>
+			<key>ypos</key>
+			<real>2165</real>
+		</dict>
 		<key>7B4EC342-D1CB-493F-89FB-7A303FACC61C</key>
 		<dict>
 			<key>colorindex</key>
@@ -3799,7 +3981,7 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<key>note</key>
 			<string>Note: return value has trailing CRLF. This needs to be trimmed in subsequent Alfred steps. For some reason, this Applescript isn't playing nice with trimming</string>
 			<key>xpos</key>
-			<real>660</real>
+			<real>485</real>
 			<key>ypos</key>
 			<real>2135</real>
 		</dict>
@@ -3817,9 +3999,9 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 		<key>89E68E52-EC2A-45B8-811B-02C53559D6C7</key>
 		<dict>
 			<key>xpos</key>
-			<real>1320</real>
+			<real>1670</real>
 			<key>ypos</key>
-			<real>2210</real>
+			<real>2215</real>
 		</dict>
 		<key>8B74D6C9-34BD-4034-A9AC-96780EAC8049</key>
 		<dict>
@@ -3834,6 +4016,15 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<real>460</real>
 			<key>ypos</key>
 			<real>1135</real>
+		</dict>
+		<key>8F447C0D-165B-45B8-9A7B-13432BD85A2D</key>
+		<dict>
+			<key>note</key>
+			<string>Only pass requesterName from previous split</string>
+			<key>xpos</key>
+			<real>1260</real>
+			<key>ypos</key>
+			<real>2165</real>
 		</dict>
 		<key>94EC7635-33CB-4B70-B5D0-175FD513129C</key>
 		<dict>
@@ -3946,7 +4137,7 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<key>note</key>
 			<string>Only pass requesterName from previous split</string>
 			<key>xpos</key>
-			<real>970</real>
+			<real>780</real>
 			<key>ypos</key>
 			<real>2165</real>
 		</dict>
@@ -3973,7 +4164,7 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<key>note</key>
 			<string>Split requester name value from previous step to create an array with shape [requesterName, CRLF]</string>
 			<key>xpos</key>
-			<real>845</real>
+			<real>660</real>
 			<key>ypos</key>
 			<real>2165</real>
 		</dict>
@@ -4087,9 +4278,9 @@ We need to open Sleuth without an argument first because the app needs to load i
 		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
 		<dict>
 			<key>xpos</key>
-			<real>1320</real>
+			<real>1670</real>
 			<key>ypos</key>
-			<real>2030</real>
+			<real>2330</real>
 		</dict>
 		<key>ECA80E6F-9AC4-4149-A69A-C590AED0D338</key>
 		<dict>
@@ -4158,7 +4349,7 @@ We need to open Sleuth without an argument first because the app needs to load i
 		<string>view4</string>
 	</array>
 	<key>version</key>
-	<string>2.2.0</string>
+	<string>2.2.1</string>
 	<key>webaddress</key>
 	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
