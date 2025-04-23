@@ -98,6 +98,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>115A0D60-18C5-4704-BDD9-AA9D87CA9B76</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D139E6A0-A2F6-492D-92AE-02F44685D27B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
 		<array>
 			<dict>
@@ -346,6 +359,16 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>299B64B2-5308-4D77-9D3D-17FCB5975CB3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>4B14B92D-BFF3-4505-B47D-8B1A7217AF4D</key>
 		<array>
@@ -512,7 +535,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</string>
+				<string>D6395C60-E04D-4E39-B799-908642048951</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -552,6 +575,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>A35090B9-033B-43BA-8A47-DFAA081E93C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>88692B6B-88B4-4128-8660-C72AB5CDD05D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5CAC2D4-90A0-4914-BDAE-5B66EC56CC28</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -686,6 +722,16 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>299B64B2-5308-4D77-9D3D-17FCB5975CB3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>ABBC4167-766D-4271-9AF1-CD90D4D34CC3</key>
 		<array>
@@ -731,6 +777,16 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>B7E96DD1-0901-4189-A73B-0F4D73FCB6FC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>299B64B2-5308-4D77-9D3D-17FCB5975CB3</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -914,12 +970,48 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>299B64B2-5308-4D77-9D3D-17FCB5975CB3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D139E6A0-A2F6-492D-92AE-02F44685D27B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DE7DCE4A-662B-428D-9273-657D3B3DFF4E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>5D96B277-5FBB-4168-9F8F-1C3661601C97</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D6395C60-E04D-4E39-B799-908642048951</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -956,6 +1048,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DE7DCE4A-662B-428D-9273-657D3B3DFF4E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>88692B6B-88B4-4128-8660-C72AB5CDD05D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -1386,7 +1491,7 @@ fi</string>
 	delay 0.5
 
 	execute theTab javascript "
-		activeTicket.getElementsByClassName('lkJzpj')[0].click();
+		activeTicket.querySelector('#downshift-84-item-1').click();
 	"
 
 end tell</string>
@@ -1585,21 +1690,6 @@ end tell</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>soundname</key>
-				<string>Tink</string>
-				<key>systemsound</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.playsound</string>
-			<key>uid</key>
-			<string>299B64B2-5308-4D77-9D3D-17FCB5975CB3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argument</key>
 				<string>{var:view2}</string>
 				<key>passthroughargument</key>
@@ -1729,7 +1819,7 @@ end tell</string>
 		document.querySelector(`[data-test-id='views_icon']`).click();
 
 		// Click views refresh button
-		document.querySelector(`[data-test-id='views_views-tree_item-view-${ {query} }']`).click();
+		document.querySelector(`[data-test-id='views_views-list_item-view-${ {query} }']`).click();
 		
 	"
 
@@ -1892,6 +1982,21 @@ end tell</string>
 			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
 			<string>3760B27B-03AF-49DE-B306-A6AE74A2D702</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>299B64B2-5308-4D77-9D3D-17FCB5975CB3</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -2375,7 +2480,7 @@ end tell</string>
 
     execute theTab javascript "
 
-		activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_forms-container_updated-date']`).click()
+		activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_forms-container_updated-date'] &gt; [data-garden-container-id='containers.combobox']`).click()
 		
 	"
 
@@ -2442,6 +2547,105 @@ end tell</string>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
 			<string>AC36C6B2-8706-4450-8AB2-EAAB1FEEFF14</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>tell application "Google Chrome"
+    
+	activate
+
+-- Only execute on active tab
+	set theTab to active tab of window 1
+
+-- Only execute if tab is done loading
+    repeat
+        if (loading of theTab) is false then exit repeat
+    end repeat
+
+-- Only execute on active ticket (since ZD has its own tabbing system)
+    execute theTab javascript "
+
+		// Define global variable for the ticket tab toolbar
+
+		if (typeof alfredToolbar === 'undefined') {
+			alfredToolbar = document.querySelector(`[data-test-id='header-toolbar']`)
+		}
+
+		// If workflow was never run before, define global variable alfredSearchTab
+		// Else, (re)define alfredSearchTab according to whatever comes up from the querySelectorAll method (could be an empty NodeList, could be the search tab if present)
+	
+		if (typeof alfredSearchTabId === 'undefined') {
+			alfredSearchTabId = Array.from(document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')).filter(tab =&gt; tab.style.display === 'block' || tab.style.display.length === 0)[0].id
+		}
+		else {
+			alfredSearchTabId = Array.from(document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')).filter(tab =&gt; tab.style.display === 'block' || tab.style.display.length === 0)[0].id
+		}
+
+		// If Search tab is open, click Search Filters
+
+		if (alfredSearchTabId.length &gt; 0) {
+
+			// Need activeAlfredSearchTabFilter to remain a top-level element for use in the Updated Date click process
+
+			activeAlfredSearchTabFilter = document.getElementById(alfredSearchTabId).querySelector(`[data-test-id='search_advanced-search-box_filter-button_filter-button-container']`)
+
+			// Click filter button			
+
+			activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_filter-button_filter-select']`).click()
+
+		}
+	"
+
+-- Click Updated Date dropdown menu
+
+	delay 0.1
+
+    execute theTab javascript "
+
+		activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_forms-container_updated-date']`).click()
+		
+	"
+
+-- Click Past Year option
+
+	delay 0.1
+
+    execute theTab javascript "
+
+		pastYearSelector = Array.from(activeAlfredSearchTabFilter.querySelectorAll(`[data-test-id='search-box-forms-container-updated-date-options']`)).filter(dateOption =&gt; dateOption.innerText.toLowerCase() === 'past year')[0]
+
+		pastYearSelector.click()
+	"
+
+-- Click Search Filter button to close it
+
+	delay 0.5
+
+    execute theTab javascript "
+		activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_filter-button_filter-select']`).click()
+	"
+
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>85ACAE29-038E-4BDD-8FE9-BB0A2B1AE5D4</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -2846,6 +3050,27 @@ end tell</string>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>0E6D18D4-E0D0-4DFC-AA8A-BC1B682E759D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>-</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>periodSplit</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>D6395C60-E04D-4E39-B799-908642048951</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -3268,7 +3493,7 @@ end alfred_script</string>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
-				<integer>102</integer>
+				<integer>103</integer>
 				<key>script</key>
 				<string>latest_log="${logFolder}$(mdls -n kMDItemFSName -n kMDItemDateAdded -raw ${logFolder}*.{zip,txt} | xargs -0 -n2 | sort -rn | head -n1 | cut -d' ' -f4-)"
 
@@ -3500,16 +3725,142 @@ open $latest_log_path -a Sleuth</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>9</integer>
+				<key>hotmod</key>
+				<integer>655360</integer>
+				<key>hotstring</key>
+				<string>V</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>115A0D60-18C5-4704-BDD9-AA9D87CA9B76</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>103</integer>
+				<key>script</key>
+				<string>latest_screenshot="${screenshotFolder}$(mdls -n kMDItemFSName -n kMDItemDateAdded -raw ${screenshotFolder}*.png | xargs -0 -n2 | sort -rn | head -n1 | cut -d' ' -f4-)"
+
+echo -n $latest_screenshot</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>D139E6A0-A2F6-492D-92AE-02F44685D27B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run
+  set theQuery to "{query}"
+
+  set the clipboard to (POSIX file theQuery)
+
+  return theQuery
+end run</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>88692B6B-88B4-4128-8660-C72AB5CDD05D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>v</string>
+				<key>keycode</key>
+				<integer>-1</integer>
+				<key>keymod</key>
+				<integer>1048576</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>A5CAC2D4-90A0-4914-BDAE-5B66EC56CC28</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>latestScreenshot</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>DE7DCE4A-662B-428D-9273-657D3B3DFF4E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>==============================
 
-v2.2.1 Update - Oct 5, 2024
+v2.3.0 Update - Apr 23, 2025
 
 ==============================
 
-Update HTML class targeting for opening ZD views.
-
+* Fix view navigation
+* Add latest screenshot opener
 
 ===============
 
@@ -3558,23 +3909,23 @@ HOW TO ADD VIEW SHORTCUTS
 
 5. Import
 
-=================================
+=======================================================
 
-HOW TO SET UP LATEST LOG OPENER
+HOW TO SET UP LATEST LOG OR LATEST SCREENSHOT OPENER
 
-=================================
+=======================================================
 
 1. Open Finder
 
 2. In the menubar at the very top of your screen, click View &gt; Show Path Bar (or use Option + Command + P)
 
-3. Open the folder where your logs are normally downloaded to
+3. Open the folder where your logs or screenshots are normally saved to
 
-4. You'll see your log folder icon in the Path Bar at the bottom of the Finder window. Right-click that folder icon and click on 'Copy "FOLDER_NAME" as Pathname'
+4. You'll see your chosen folder's icon in the Path Bar at the bottom of the Finder window. Right-click that folder icon and click on 'Copy "FOLDER_NAME" as Pathname'
 
-5a. [Alfred 4] In the "Variables" box to the left, double click the value field for the variable "logFolder"
+5a. [Alfred 4] In the "Variables" box to the left, double click the value field for the variable "logFolder" or "screenshotFolder"
 
-5b. [Alfred 5] Import this workflow, click on the [x] icon at the top right of Alfred &gt; Environment Variables &gt; double click the value field for the variable "logFolder"
+5b. [Alfred 5] Import this workflow, click on the [x] icon at the top right of Alfred &gt; Environment Variables &gt; double click the value field for the variable "logFolder" or "screenshotFolder"
 
 6. Paste the Pathname you previously copied
 
@@ -3584,7 +3935,7 @@ HOW TO SET UP LATEST LOG OPENER
 		<key>0078D2ED-E6A9-4B5B-A1A4-230F9DE4A3A6</key>
 		<dict>
 			<key>xpos</key>
-			<real>1350</real>
+			<real>1470</real>
 			<key>ypos</key>
 			<real>2135</real>
 		</dict>
@@ -3615,9 +3966,18 @@ HOW TO SET UP LATEST LOG OPENER
 			<key>note</key>
 			<string>Only pass requesterName from previous split</string>
 			<key>xpos</key>
-			<real>1020</real>
+			<real>1140</real>
 			<key>ypos</key>
 			<real>2165</real>
+		</dict>
+		<key>115A0D60-18C5-4704-BDD9-AA9D87CA9B76</key>
+		<dict>
+			<key>note</key>
+			<string>From configured folder, copy latest screenshot file to clipboard, and then paste</string>
+			<key>xpos</key>
+			<real>85</real>
+			<key>ypos</key>
+			<real>3105</real>
 		</dict>
 		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
 		<dict>
@@ -3678,7 +4038,7 @@ If a newer version exists, open download page.</string>
 			<key>note</key>
 			<string>Split with @ character as delimiter</string>
 			<key>xpos</key>
-			<real>1140</real>
+			<real>1260</real>
 			<key>ypos</key>
 			<real>2165</real>
 		</dict>
@@ -3705,7 +4065,7 @@ If a newer version exists, open download page.</string>
 			<key>xpos</key>
 			<real>1530</real>
 			<key>ypos</key>
-			<real>475</real>
+			<real>940</real>
 		</dict>
 		<key>2A61E696-A907-49BE-8690-6C500404D9E2</key>
 		<dict>
@@ -3991,6 +4351,22 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<key>ypos</key>
 			<real>2675</real>
 		</dict>
+		<key>85ACAE29-038E-4BDD-8FE9-BB0A2B1AE5D4</key>
+		<dict>
+			<key>xpos</key>
+			<real>1260</real>
+			<key>ypos</key>
+			<real>1570</real>
+		</dict>
+		<key>88692B6B-88B4-4128-8660-C72AB5CDD05D</key>
+		<dict>
+			<key>note</key>
+			<string>Copy screenshot to clipboard</string>
+			<key>xpos</key>
+			<real>575</real>
+			<key>ypos</key>
+			<real>3105</real>
+		</dict>
 		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
 		<dict>
 			<key>note</key>
@@ -4037,7 +4413,7 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<key>note</key>
 			<string>Only pass requesterName from previous split</string>
 			<key>xpos</key>
-			<real>1260</real>
+			<real>1380</real>
 			<key>ypos</key>
 			<real>2165</real>
 		</dict>
@@ -4089,6 +4465,15 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<real>940</real>
 			<key>ypos</key>
 			<real>35</real>
+		</dict>
+		<key>A5CAC2D4-90A0-4914-BDAE-5B66EC56CC28</key>
+		<dict>
+			<key>note</key>
+			<string>Paste</string>
+			<key>xpos</key>
+			<real>760</real>
+			<key>ypos</key>
+			<real>3105</real>
 		</dict>
 		<key>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</key>
 		<dict>
@@ -4263,6 +4648,15 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<key>ypos</key>
 			<real>1405</real>
 		</dict>
+		<key>D139E6A0-A2F6-492D-92AE-02F44685D27B</key>
+		<dict>
+			<key>note</key>
+			<string>Get latest screenshot file name</string>
+			<key>xpos</key>
+			<real>245</real>
+			<key>ypos</key>
+			<real>3105</real>
+		</dict>
 		<key>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</key>
 		<dict>
 			<key>note</key>
@@ -4271,6 +4665,15 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<real>560</real>
 			<key>ypos</key>
 			<real>2705</real>
+		</dict>
+		<key>D6395C60-E04D-4E39-B799-908642048951</key>
+		<dict>
+			<key>note</key>
+			<string>Split with dash character as delimiter</string>
+			<key>xpos</key>
+			<real>1020</real>
+			<key>ypos</key>
+			<real>2165</real>
 		</dict>
 		<key>D70E1F1F-ABFB-4FC7-BCDA-CB8921986FE6</key>
 		<dict>
@@ -4289,6 +4692,15 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<real>295</real>
 			<key>ypos</key>
 			<real>1990</real>
+		</dict>
+		<key>DE7DCE4A-662B-428D-9273-657D3B3DFF4E</key>
+		<dict>
+			<key>note</key>
+			<string>Save screenshot file name as variable</string>
+			<key>xpos</key>
+			<real>445</real>
+			<key>ypos</key>
+			<real>3135</real>
 		</dict>
 		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
 		<dict>
@@ -4337,26 +4749,29 @@ We need to open Sleuth without an argument first because the app needs to load i
 		<key>latestLogWorkflowName</key>
 		<string>Latest Log Opener (Alfred)</string>
 		<key>logFolder</key>
-		<string></string>
+		<string>/Users/eopinaldo/Downloads/</string>
+		<key>screenshotFolder</key>
+		<string>/Users/eopinaldo/Desktop/</string>
 		<key>ticketCountView</key>
-		<string></string>
+		<string>1500026128162</string>
 		<key>timeoutValue</key>
 		<string>10</string>
 		<key>view1</key>
-		<string></string>
+		<string>15631030742931</string>
 		<key>view2</key>
-		<string></string>
+		<string>15630863536403</string>
 		<key>view3</key>
-		<string></string>
+		<string>27642579981843</string>
 		<key>view4</key>
-		<string></string>
+		<string>35986105798163</string>
 		<key>view5</key>
-		<string></string>
+		<string>35986113516947</string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
 		<string>view1</string>
 		<string>view3</string>
+		<string>screenshotFolder</string>
 		<string>view5</string>
 		<string>logFolder</string>
 		<string>view2</string>
@@ -4364,7 +4779,7 @@ We need to open Sleuth without an argument first because the app needs to load i
 		<string>view4</string>
 	</array>
 	<key>version</key>
-	<string>2.2.1</string>
+	<string>2.3.0</string>
 	<key>webaddress</key>
 	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
