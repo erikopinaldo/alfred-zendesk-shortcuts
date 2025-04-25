@@ -250,6 +250,41 @@
 				<false/>
 			</dict>
 		</array>
+		<key>32E0A57E-D53F-4EAB-A1B2-C524DFA6DBC9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>88692B6B-88B4-4128-8660-C72AB5CDD05D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>29D8AB81-799D-4BE0-81C5-25FF4DF83D82</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>66BB0E46-53E0-4287-8225-EA9174C6A274</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>3508C686-2AF5-40DD-9ED3-7A50A1E41C2F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<array>
 			<dict>
@@ -1060,7 +1095,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>88692B6B-88B4-4128-8660-C72AB5CDD05D</string>
+				<string>32E0A57E-D53F-4EAB-A1B2-C524DFA6DBC9</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -1567,7 +1602,7 @@ end tell</string>
 		document.querySelector(`[data-test-id='views_icon']`).click();
 
 		// Click views refresh button
-		document.querySelector(`[data-test-id='views_views-tree_item-view-${ {query} }']`).click();
+		document.querySelector(`[data-test-id='views_views-list_item-view-${ {query} }']`).click();
 		
 	"
 
@@ -2547,105 +2582,6 @@ end tell</string>
 			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
 			<string>AC36C6B2-8706-4450-8AB2-EAAB1FEEFF14</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>tell application "Google Chrome"
-    
-	activate
-
--- Only execute on active tab
-	set theTab to active tab of window 1
-
--- Only execute if tab is done loading
-    repeat
-        if (loading of theTab) is false then exit repeat
-    end repeat
-
--- Only execute on active ticket (since ZD has its own tabbing system)
-    execute theTab javascript "
-
-		// Define global variable for the ticket tab toolbar
-
-		if (typeof alfredToolbar === 'undefined') {
-			alfredToolbar = document.querySelector(`[data-test-id='header-toolbar']`)
-		}
-
-		// If workflow was never run before, define global variable alfredSearchTab
-		// Else, (re)define alfredSearchTab according to whatever comes up from the querySelectorAll method (could be an empty NodeList, could be the search tab if present)
-	
-		if (typeof alfredSearchTabId === 'undefined') {
-			alfredSearchTabId = Array.from(document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')).filter(tab =&gt; tab.style.display === 'block' || tab.style.display.length === 0)[0].id
-		}
-		else {
-			alfredSearchTabId = Array.from(document.querySelectorAll('.ember-view.workspace.search:not(.is-cached)')).filter(tab =&gt; tab.style.display === 'block' || tab.style.display.length === 0)[0].id
-		}
-
-		// If Search tab is open, click Search Filters
-
-		if (alfredSearchTabId.length &gt; 0) {
-
-			// Need activeAlfredSearchTabFilter to remain a top-level element for use in the Updated Date click process
-
-			activeAlfredSearchTabFilter = document.getElementById(alfredSearchTabId).querySelector(`[data-test-id='search_advanced-search-box_filter-button_filter-button-container']`)
-
-			// Click filter button			
-
-			activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_filter-button_filter-select']`).click()
-
-		}
-	"
-
--- Click Updated Date dropdown menu
-
-	delay 0.1
-
-    execute theTab javascript "
-
-		activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_forms-container_updated-date']`).click()
-		
-	"
-
--- Click Past Year option
-
-	delay 0.1
-
-    execute theTab javascript "
-
-		pastYearSelector = Array.from(activeAlfredSearchTabFilter.querySelectorAll(`[data-test-id='search-box-forms-container-updated-date-options']`)).filter(dateOption =&gt; dateOption.innerText.toLowerCase() === 'past year')[0]
-
-		pastYearSelector.click()
-	"
-
--- Click Search Filter button to close it
-
-	delay 0.5
-
-    execute theTab javascript "
-		activeAlfredSearchTabFilter.querySelector(`[data-test-id='search_advanced-search-box_filter-button_filter-select']`).click()
-	"
-
-
-end tell</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>85ACAE29-038E-4BDD-8FE9-BB0A2B1AE5D4</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -3728,6 +3664,56 @@ open $latest_log_path -a Sleuth</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run
+  set theQuery to "{query}"
+
+  set the clipboard to (POSIX file theQuery)
+
+  return theQuery
+end run</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>88692B6B-88B4-4128-8660-C72AB5CDD05D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>v</string>
+				<key>keycode</key>
+				<integer>-1</integer>
+				<key>keymod</key>
+				<integer>1048576</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>A5CAC2D4-90A0-4914-BDAE-5B66EC56CC28</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>action</key>
 				<integer>0</integer>
 				<key>argument</key>
@@ -3784,50 +3770,32 @@ echo -n $latest_screenshot</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>on run
-  set theQuery to "{query}"
-
-  set the clipboard to (POSIX file theQuery)
-
-  return theQuery
-end run</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>88692B6B-88B4-4128-8660-C72AB5CDD05D</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>count</key>
-				<integer>1</integer>
-				<key>keychar</key>
-				<string>v</string>
-				<key>keycode</key>
-				<integer>-1</integer>
-				<key>keymod</key>
-				<integer>1048576</integer>
-				<key>overridewithargument</key>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>png</string>
+						<key>outputlabel</key>
+						<string>Run copy script</string>
+						<key>uid</key>
+						<string>29D8AB81-799D-4BE0-81C5-25FF4DF83D82</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
 				<false/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
-			<string>A5CAC2D4-90A0-4914-BDAE-5B66EC56CC28</string>
+			<string>32E0A57E-D53F-4EAB-A1B2-C524DFA6DBC9</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -3851,16 +3819,58 @@ end run</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>tell application "System Events"
+
+	display alert "Latest screenshot paster (Alfred)" message "No screenshots found!\n\nEither your folder is empty, or you've configured the wrong one in this workflow's \"Environment Variables\"." buttons {"Dismiss"} 
+
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>66BB0E46-53E0-4287-8225-EA9174C6A274</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Tink</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>3508C686-2AF5-40DD-9ED3-7A50A1E41C2F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>==============================
 
-v2.3.0 Update - Apr 23, 2025
+v2.3.1 Update - Apr 23, 2025
 
 ==============================
 
-* Fix view navigation
 * Add latest screenshot opener
+  * Add error message if no screenshot is found
 
 ===============
 
@@ -3877,8 +3887,9 @@ Keyboard shortcuts for Zendesk.
     * Assign to Self and set to Pending
        
 * Misc ticket actions
-    * NEW! Open most recently downloaded log file in Sleuth
-    * NEW! Copy user/team ID from lefthand ticket sidebar
+    * NEW! Automatically copy latest screenshot from folder and paste with one keyboard shortcut
+    * Open most recently downloaded log file in Sleuth
+    * Copy user/team ID from lefthand ticket sidebar
     * [PLAY MODE] Next ticket
     * Toggle formatting menu
     * Close current ticket tab
@@ -3975,9 +3986,9 @@ HOW TO SET UP LATEST LOG OR LATEST SCREENSHOT OPENER
 			<key>note</key>
 			<string>From configured folder, copy latest screenshot file to clipboard, and then paste</string>
 			<key>xpos</key>
-			<real>85</real>
+			<real>50</real>
 			<key>ypos</key>
-			<real>3105</real>
+			<real>3270</real>
 		</dict>
 		<key>13CC33BE-3FC4-4A9A-B248-DFA13B76A9FD</key>
 		<dict>
@@ -4100,6 +4111,20 @@ If a newer version exists, open download page.</string>
 			<real>850</real>
 			<key>ypos</key>
 			<real>340</real>
+		</dict>
+		<key>32E0A57E-D53F-4EAB-A1B2-C524DFA6DBC9</key>
+		<dict>
+			<key>xpos</key>
+			<real>530</real>
+			<key>ypos</key>
+			<real>3290</real>
+		</dict>
+		<key>3508C686-2AF5-40DD-9ED3-7A50A1E41C2F</key>
+		<dict>
+			<key>xpos</key>
+			<real>790</real>
+			<key>ypos</key>
+			<real>3465</real>
 		</dict>
 		<key>357F1347-3274-4CB0-ACD7-F12BC0C56DD6</key>
 		<dict>
@@ -4272,6 +4297,15 @@ DO NOT DELETE</string>
 			<key>ypos</key>
 			<real>1120</real>
 		</dict>
+		<key>66BB0E46-53E0-4287-8225-EA9174C6A274</key>
+		<dict>
+			<key>note</key>
+			<string>Show failure alert.</string>
+			<key>xpos</key>
+			<real>790</real>
+			<key>ypos</key>
+			<real>3315</real>
+		</dict>
 		<key>6AB4A5FD-6FD8-4554-86C7-7E8C911F0D4F</key>
 		<dict>
 			<key>note</key>
@@ -4351,21 +4385,14 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<key>ypos</key>
 			<real>2675</real>
 		</dict>
-		<key>85ACAE29-038E-4BDD-8FE9-BB0A2B1AE5D4</key>
-		<dict>
-			<key>xpos</key>
-			<real>1260</real>
-			<key>ypos</key>
-			<real>1570</real>
-		</dict>
 		<key>88692B6B-88B4-4128-8660-C72AB5CDD05D</key>
 		<dict>
 			<key>note</key>
 			<string>Copy screenshot to clipboard</string>
 			<key>xpos</key>
-			<real>575</real>
+			<real>790</real>
 			<key>ypos</key>
-			<real>3105</real>
+			<real>3115</real>
 		</dict>
 		<key>89136E68-9E37-4CD6-BFB1-A45027E8883E</key>
 		<dict>
@@ -4471,9 +4498,9 @@ Gives up after 10 seconds. Outputs seconds passed.</string>
 			<key>note</key>
 			<string>Paste</string>
 			<key>xpos</key>
-			<real>760</real>
+			<real>975</real>
 			<key>ypos</key>
-			<real>3105</real>
+			<real>3115</real>
 		</dict>
 		<key>A5D6E9FF-8CA6-44D3-BEA2-C78D0DF72183</key>
 		<dict>
@@ -4653,9 +4680,9 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<key>note</key>
 			<string>Get latest screenshot file name</string>
 			<key>xpos</key>
-			<real>245</real>
+			<real>210</real>
 			<key>ypos</key>
-			<real>3105</real>
+			<real>3270</real>
 		</dict>
 		<key>D3993F93-0FF4-445B-BFCE-0BA30D0448F6</key>
 		<dict>
@@ -4698,9 +4725,9 @@ We need to open Sleuth without an argument first because the app needs to load i
 			<key>note</key>
 			<string>Save screenshot file name as variable</string>
 			<key>xpos</key>
-			<real>445</real>
+			<real>410</real>
 			<key>ypos</key>
-			<real>3135</real>
+			<real>3300</real>
 		</dict>
 		<key>E10217D1-ED65-4154-857A-2EB4EAF84A76</key>
 		<dict>
@@ -4779,7 +4806,7 @@ We need to open Sleuth without an argument first because the app needs to load i
 		<string>view4</string>
 	</array>
 	<key>version</key>
-	<string>2.3.0</string>
+	<string>2.3.1</string>
 	<key>webaddress</key>
 	<string>https://slack.enterprise.slack.com/archives/C05L7NQ1F5Y</string>
 </dict>
